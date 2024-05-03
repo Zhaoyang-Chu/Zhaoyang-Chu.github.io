@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year master’s student in the School of Computer Science and Technology at [**Huazhong University of Science and Technology (HUST)**](https://www.hust.edu.cn), under the guidance of [**Prof. Yao Wan**](http://wanyao.me). I am currently seeking a PhD position in SE/ML for Fall 2025. For an overview of my academic background, please look at my [**CV**](../assets/ZhaoyangChu_CV.pdf). If you are interested, please feel free to contact me： [chuzhaoyang@hust.edu.cn](mailto:chuzhaoyang@hust.edu.cn) \| [zychu418@gmail.com](mailto:zychu418@gmail.com).
+I am a second-year master’s student in the School of Computer Science and Technology at [**Huazhong University of Science and Technology (HUST)**](https://www.hust.edu.cn), under the guidance of [**Prof. Yao Wan**](http://wanyao.me). I am currently seeking a PhD position in SE/ML for Fall 2025. For an overview of my academic background, please look at my [**CV**](../assets/ZhaoyangChu_CV.pdf). If you are interested, please feel free to contact me：[chuzhaoyang@hust.edu.cn](mailto:chuzhaoyang@hust.edu.cn) \| [zychu418@gmail.com](mailto:zychu418@gmail.com).
 
 My research interest focuses on the intersection of software engineering and machine learning, where I am particularly intrigued by:
 - **Code Intelligence**, e.g., code generation, code search, and vulnerability detection.
@@ -31,31 +31,37 @@ My research interest focuses on the intersection of software engineering and mac
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSTA 2024</div><img src='images/CFExplainer_Framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation**.<br>
+**Zhaoyang Chu**, Yao Wan\*, Qian Li, Yang Wu, Hongyu Zhang, Yulei Sui, Guandong Xu, Hai Jin.<br>
+[**ISSTA 2024**](https://2024.issta.org). *The ACM SIGSOFT International Symposium on Software Testing and Analysis*. **CCF-A**.<br>
+\[ [Paper](../assets/CFExplainer.pdf) \] \[ [Code](https://github.com/Zhaoyang-Chu/counterfactual-vulnerability-detection) \] \[ [arXiv](https://arxiv.org/abs/2404.15687) \]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Sciences</div><img src='images/HGRL-DTA_Framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Hierarchical Graph Representation Learning for the Prediction of Drug-Target Binding Affinity**.<br>
+**Zhaoyang Chu**, Feng Huang, Haitao Fu, Yuan Quan, Xionghui Zhou, Shichao Liu, Wen Zhang\*.<br>
+[**Information Sciences**](https://www.sciencedirect.com/journal/information-sciences), 2022. **Impact Factor 8.1, CCF-B**.<br>
+\[ [Paper](../assets/HGRL-DTA.pdf) \] \[ [Code](https://github.com/Zhaoyang-Chu/HGRL-DTA) \] \[ [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025522010908) \]
+
+</div>
+</div>
+
+- **Machine Unlearning for Code Language Models**, First Author, Submitted to [**ICSE 2025**](https://conf.researchr.org/home/icse-2025).
+- **Explore Large Language Models in Code Summarization Evaluation**, Co-Author, Submitted to [**ICSE 2025**](https://conf.researchr.org/home/icse-2025).
+- **Learning-based Pre-trained Code Model Selection for Reuse**, Co-Author, Submitted to [**TSE**](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=32).
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022-2023*, Merit Postgraduate, First-class Scholarship for Postgraduates. 
+- *2021-2022*, Undergraduate Thesis Innovation Award, Outstanding Undergraduate.
+- *2019-2020*, **National Scholarship for Undergraduates**, Merit Student.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.09 - 2025.06 (anticipated)*, Master, Huazhong University of Science and Technology. 
+- *2018.09 - 2022.06*, Undergraduate, Huazhong Agricultural University (Graduated with Honors).
