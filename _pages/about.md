@@ -24,7 +24,7 @@ My research interest focuses on the intersection of software engineering and mac
 - **Trustworthy Artificial Intelligence**, e.g., explainability, privacy, and robustness.
 - **Deep Learning on Graphs**, e.g., graph neural networks (GNNs).
 
-**I will be in Vienna, Austria in September for ISSTA 2024! Hope to meet many of you there.**
+🌟🌟 **I will be in Vienna, Austria in September for ISSTA 2024! Hope to meet many of you there!** 🤗🤗
 
 
 # 🔥 News
