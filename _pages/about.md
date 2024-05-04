@@ -55,10 +55,6 @@ My research interest focuses on the intersection of **software engineering** and
 </div>
 </div>
 
-- **Machine Unlearning for Code Language Models**, First Author, Submitted to [**ICSE 2025**](https://conf.researchr.org/home/icse-2025).
-- **Explore Large Language Models in Code Summarization Evaluation**, Co-Author, Submitted to [**ICSE 2025**](https://conf.researchr.org/home/icse-2025).
-- **Learning-based Pre-trained Code Model Selection for Reuse**, Co-Author, Submitted to [**TSE**](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=32).
-
 # 🎖 Honors and Awards
 - *2022-2023*, Merit Postgraduate, First-class Scholarship for Postgraduates. 
 - *2021-2022*, Undergraduate Thesis Innovation Award, Outstanding Undergraduate.
