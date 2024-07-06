@@ -27,7 +27,7 @@ My research interest focuses on the intersection of **software engineering** and
 
 # 📝 Publications 
 
-- ``Preprint`` **TESTEVAL: Benchmarking Large Language Models for Test Case Generation**.<br>
+- ``Preprint`` **TESTEVAL: Benchmarking Large Language Models for Test Case Generation**.  
 Wenhan Wang, Chenyuan Yang, Zhijie Wang, Yuheng Huang, [**Zhaoyang Chu**](), Da Song, Lingming Zhang, An Ran Chen, Lei Ma.<br>
 \[ [Paper](../assets/TestEval.pdf) \] \[ [Benchmark](https://llm4softwaretesting.github.io/) \] \[ [Code](https://github.com/LLM4SoftwareTesting/TestEval) \] \[ [arXiv](https://arxiv.org/abs/2406.04531) \]
 
