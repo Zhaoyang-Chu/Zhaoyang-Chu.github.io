@@ -33,7 +33,9 @@ My research interest focuses on the intersection of **software engineering** and
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSTA 2024</div><img src='images/CFExplainer_Framework.jpg' alt="sym" width="100%"></div></div>
+- **TESTEVAL: Benchmarking Large Language Models for Test Case Generation**. Wenhan Wang, Chenyuan Yang, Zhijie Wang, Yuheng Huang, **Zhaoyang Chu**, Da Song, Lingming Zhang, An Ran Chen, Lei Ma. Preprint. \[ [Benchmark](https://llm4softwaretesting.github.io/) \] \[ [Code](https://github.com/LLM4SoftwareTesting/TestEval) \] \[ [arXiv](https://arxiv.org/abs/2406.04531) \]
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSTA 2024</div><img src='images/CFExplainer_Illustration.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation**.<br>
