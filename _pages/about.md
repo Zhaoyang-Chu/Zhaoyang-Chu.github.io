@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 <span class='anchor' id='about-me'></span>
 
 I am a second-year master’s student in the School of Computer Science and Technology at [**Huazhong University of Science and Technology (HUST)**](https://www.hust.edu.cn), under the guidance of [**Prof. Yao Wan**](http://wanyao.me). I am currently seeking a PhD position in SE/ML for Fall 2025. For an overview of my academic background, please look at my [**CV**](../assets/ZhaoyangChu_CV.pdf). If you are interested, please feel free to contact me: [chuzhaoyang@hust.edu.cn](mailto:chuzhaoyang@hust.edu.cn) \| [zychu418@gmail.com](mailto:zychu418@gmail.com).
@@ -27,7 +34,7 @@ My research interest focuses on the intersection of **software engineering** and
 
 # 📝 Publications 
 
-- ``Preprint`` **TESTEVAL: Benchmarking Large Language Models for Test Case Generation**.  
+- ``Preprint`` **TESTEVAL: Benchmarking Large Language Models for Test Case Generation**.<br>
 Wenhan Wang, Chenyuan Yang, Zhijie Wang, Yuheng Huang, [**Zhaoyang Chu**](), Da Song, Lingming Zhang, An Ran Chen, Lei Ma.<br>
 \[ [Paper](../assets/TestEval.pdf) \] \[ [Benchmark](https://llm4softwaretesting.github.io/) \] \[ [Code](https://github.com/LLM4SoftwareTesting/TestEval) \] \[ [arXiv](https://arxiv.org/abs/2406.04531) \]
 
