@@ -24,7 +24,9 @@ My research interest focuses on the intersection of **software engineering** and
 - **Trustworthy Artificial Intelligence**, e.g., explainability, privacy, and robustness.
 - **Deep Learning on Graphs**, e.g., graph neural networks (GNNs).
 
+<!--
 🌟🌟 **I will be in Vienna, Austria in September for ISSTA 2024! Hope to meet many of you there!** 🤗🤗
+-->
 
 
 # 🔥 News
@@ -44,7 +46,7 @@ Wenhan Wang, Chenyuan Yang, Zhijie Wang, Yuheng Huang, [**Zhaoyang Chu**](), Da 
 **Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation**.<br>
 [**Zhaoyang Chu**](), Yao Wan\*, Qian Li, Yang Wu, Hongyu Zhang, Yulei Sui, Guandong Xu, Hai Jin.<br>
 [**ISSTA 2024**](https://2024.issta.org). *The ACM SIGSOFT International Symposium on Software Testing and Analysis*. **CCF-A**.<br>
-\[ [Paper](../assets/CFExplainer.pdf) \] \[ [Code](https://github.com/Zhaoyang-Chu/counterfactual-vulnerability-detection) \] \[ [arXiv](https://arxiv.org/abs/2404.15687) \]
+\[ [Paper](../assets/CFExplainer.pdf) \] \[ [Code](https://github.com/Zhaoyang-Chu/counterfactual-vulnerability-detection) \] \[ [arXiv](https://arxiv.org/abs/2404.15687) \] \[ [Link](https://dl.acm.org/doi/10.1145/3650212.3652136) \]
 
 </div>
 </div>
