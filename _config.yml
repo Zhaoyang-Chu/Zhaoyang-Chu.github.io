@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhaoyang Chu (储朝阳)"
-description              : "Master's student at HUST, focusing on SE and ML research"
-repository               : "Zhaoyang-Chu/Zhaoyang-Chu.github.io"
+title                    : "Weiyang Li (李蔚洋)"
+description              : "PhD student at CQU, focusing on SC research"
+repository               : "Mr3white/Mr3white.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhaoyang Chu (储朝阳)"
+  name             : "Weiyang Li (李蔚洋)"
   avatar           : "images/profile.jpg"
-  bio              : "Huazhong University of Science and Technology (HUST)"
-  location         : "Wuhan, China"
+  bio              : "Chongqing University (CQU)"
+  location         : "Chongqing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=HYu3DyEAAAAJ"
-  email            : "chuzhaoyang@hust.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=tJEo8S4AAAAJ"
+  email            : "weiyangli@stu.cqu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,27 +37,27 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Zhaoyang-Chu" # e.g., "github username"
+  github           : "Mr3white" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zhaoyang-chu-ab3536306" # e.g., "linkedin username"
+  linkedin         :  # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0003-4333-8063" # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0004-8868-8723" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "zhaoyang_c68411"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  blog             : "https://blog.csdn.net/qq_44009891?spm=1000.2115.3001.5343"
+  blog             : 
 
 
 # Reading Files
