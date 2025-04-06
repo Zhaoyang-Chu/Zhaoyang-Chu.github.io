@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year PHD student in the College of Computer Science at [**Chongqing University (CQU)**](https://www.cqu.edu.cn), under the guidance of [**Prof. Ning Wang**].
+I am a first-year PHD student in the College of Computer Science at [**Chongqing University (CQU)**](https://www.cqu.edu.cn), under the guidance of **Prof. Ning Wang**.
 
 My research interest focuses on the intersection of **Privacy and Security**, where I am particularly intrigued by:
 - **Pysical-layer Security**, e.g., radio frequency fingerprinting.
