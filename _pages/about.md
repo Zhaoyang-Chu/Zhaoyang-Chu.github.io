@@ -53,16 +53,13 @@ Gao liu, [**Weiyang Li**](), Chengsheng yuan, Ning wang, Chuan ma, Nankun Mu, Zh
 [**IEEE Transactions on Vehicular Technology**](https://vtsociety.org/publication/ieee-transactions-vehicular-technology), 2024. **Impact Factor 6.1, SCI-Q1**.<br>
 \[ [Paper](../assets/LBRAKA.pdf) \] \[ [Link](https://ieeexplore.ieee.org/abstract/document/10791875) \]
 
-</div>
-</div>
-
 
 # 🎖 Honors and Awards
 - *2023-2024*, National Third Prize in the China Graduate Cybersecurity Innovation Competition (three consecutive sessions), Outstanding Individual in Chongqing City for Spiritual Civilization Construction (municipal award), First-class Scholarship for Postgraduates.
 
 - *2022-2023*, Top 10 Teaching Assistant (Modern Cryptography course, selected among 10 university-wide), First-class Scholarship for Postgraduates.
 
-- *2021-2022*, Outstanding Student Leader (selected among 10 university-wide).
+- *2021-2022*, Outstanding Student Cadre (selected among 10 university-wide).
 
 - *2019-2020*, Top 10 Class Monitor (selected among 10 university-wide).
 
