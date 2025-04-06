@@ -24,7 +24,7 @@ My research interest focuses on the intersection of **Privacy and Security**, wh
 - **IOT Security**, e.g., wireless sensing.
 - **Intelligent Unmanned System**, e.g., unmanned aerial vehicles (UAVs).
 
-🌟🌟 **I will be in London, UK in MAy for INFOCOM 2025! Hope to meet many of you there!** 🤗🤗
+🌟🌟 **I will be in London, UK in May for INFOCOM 2025! Hope to meet many of you there!** 🤗🤗
 
 
 
@@ -55,7 +55,7 @@ Gao liu, [**Weiyang Li**](), Chengsheng yuan, Ning wang, Chuan ma, Nankun Mu, Zh
 
 
 # 🎖 Honors and Awards
-- *2023-2024*, National Third Prize in the China Graduate Cybersecurity Innovation Competition (three consecutive sessions), Outstanding Individual in Chongqing City for Spiritual Civilization Construction (municipal award), First-class Scholarship for Postgraduates.
+- *2023-2024*, National Third Prize in the China Graduate Cybersecurity Innovation Competition, Outstanding Individual in Chongqing City for Spiritual Civilization Construction (municipal award), First-class Scholarship for Postgraduates.
 
 - *2022-2023*, Top 10 Teaching Assistant (Modern Cryptography course, selected among 10 university-wide), First-class Scholarship for Postgraduates.
 
