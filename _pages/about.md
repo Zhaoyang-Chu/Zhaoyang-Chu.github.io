@@ -24,7 +24,7 @@ My research interest focuses on the intersection of **Privacy and Security**, wh
 - **IOT Security**, e.g., wireless sensing.
 - **Intelligent Unmanned System**, e.g., unmanned aerial vehicles (UAVs).
 
-🌟🌟 **I will be in London, UK in May for INFOCOM 2025! Hope to meet many of you there!** 🤗🤗
+🌟🌟 **I will be in London, UK this May to attend INFOCOM 2025, and I look forward to engaging with many of you there. I am scheduled to present my work during Session F-3 in Plaza Suite 10/11 on May 20th from 16:00 to 17:30. I warmly invite you to attend and share your valuable insights and guidance.** 🤗🤗
 
 
 
