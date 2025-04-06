@@ -55,7 +55,7 @@ Gao Liu, [**Weiyang Li**](), Chengsheng Yuan, Ning Wang\*, Chuan Ma, Nankun Mu, 
 
 
 **PredLnc-GFStack: A Global Sequence Feature Based on a Stacked Ensemble Learning Method for Predicting lncRNAs from Transcripts**.<br>
-Shuai Liu, Xiaohan Zhao, Guangyan zhang, [**Weiyang Li**](), Feng Liu, Shichao Liu, Wen Zhang\*.<br>
+Shuai Liu, Xiaohan Zhao, Guangyan Zhang, [**Weiyang Li**](), Feng Liu, Shichao Liu, Wen Zhang\*.<br>
 [**Genes**](https://www.mdpi.com/journal/genes), 2019. **Impact Factor 2.8, SCI-Q3**.<br>
 \[ [Paper](../assets/PredLnc.pdf) \] \[ [Link](https://www.mdpi.com/2073-4425/10/9/672) \]
 
