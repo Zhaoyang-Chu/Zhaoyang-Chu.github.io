@@ -40,7 +40,7 @@ My research interest focuses on the intersection of **Privacy and Security**, wh
 <div class='paper-box-text' markdown="1">
 
 **DroneMA: Drone Mobility Alignment Countering AI-based Spoofing Attacks**.<br>
-[**Weiyang Li**](), Ning wang\*, Chuan ma, Tao xiang, Kai zeng.<br>
+[**Weiyang Li**](), Ning Wang\*, Chuan Ma, Tao Xiang, Kai Zeng.<br>
 [**INFOCOM 2025**](https://infocom2025.ieee-infocom.org/). *IEEE International Conference on Computer Communications*. **CCF-A**.<br>
 \[ [Paper](../assets/DroneMA.pdf) \] \[ [Code](https://github.com/Mr3white/DroneMA) \] 
 
@@ -49,10 +49,15 @@ My research interest focuses on the intersection of **Privacy and Security**, wh
 
 
 **LBRAKA: Lattice-Based Robust Authenticated Key Agreement for VANETs**.<br>
-Gao liu, [**Weiyang Li**](), Chengsheng yuan, Ning wang, Chuan ma, Nankun Mu, Zhiquan Liu, Yining Liu, Tao xiang\*.<br>
-[**IEEE Transactions on Vehicular Technology**](https://vtsociety.org/publication/ieee-transactions-vehicular-technology), 2024. **Impact Factor 6.1, SCI-Q1**.<br>
+Gao Liu, [**Weiyang Li**](), Chengsheng Yuan, Ning Wang\*, Chuan Ma, Nankun Mu, Zhiquan Liu, Yining Liu, Tao Xiang.<br>
+[**IEEE Transactions on Vehicular Technology**](https://vtsociety.org/publication/ieee-transactions-vehicular-technology), 2024. **Impact Factor 6.1, SCI-Q2**.<br>
 \[ [Paper](../assets/LBRAKA.pdf) \] \[ [Link](https://ieeexplore.ieee.org/abstract/document/10791875) \]
 
+
+**PredLnc-GFStack: A Global Sequence Feature Based on a Stacked Ensemble Learning Method for Predicting lncRNAs from Transcripts**.<br>
+Shuai Liu, Xiaohan Zhao, Guangyan zhang, [**Weiyang Li**](), Feng Liu, Shichao Liu, Wen Zhang\*.<br>
+[**Genes**](https://www.mdpi.com/journal/genes), 2019. **Impact Factor 2.8, SCI-Q3**.<br>
+\[ [Paper](../assets/PredLnc.pdf) \] \[ [Link](https://www.mdpi.com/2073-4425/10/9/672) \]
 
 # 🎖 Honors and Awards
 - *2023-2024*, National Third Prize in the China Graduate Cybersecurity Innovation Competition, Outstanding Individual in Chongqing City for Spiritual Civilization Construction (municipal award), First-class Scholarship for Postgraduates.
