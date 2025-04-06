@@ -20,33 +20,29 @@ redirect_from:
 I am a first-year PHD student in the College of Computer Science at [**Chongqing University (CQU)**](https://www.cqu.edu.cn), under the guidance of [**Prof. Ning Wang**].
 
 My research interest focuses on the intersection of **Privacy and Security**, where I am particularly intrigued by:
-- **Pysical-layer Security**, e.g., code generation, code search, and vulnerability detection.
-- **IOT Security**, e.g., explainability, privacy, and robustness.
+- **Pysical-layer Security**, e.g., radio frequency fingerprinting.
+- **IOT Security**, e.g., wireless sensing.
 - **Intelligent Unmanned System**, e.g., unmanned aerial vehicles (UAVs).
 
-<!--
-🌟🌟 **I will be in Vienna, Austria in September for ISSTA 2024! Hope to meet many of you there!** 🤗🤗
--->
+🌟🌟 **I will be in London, UK in MAy for INFOCOM 2025! Hope to meet many of you there!** 🤗🤗
+
 
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉 Our latest research on counterfactual reasoning for GNN-based vulnerability detection has been accepted by ISSTA 2024.
-- *2022.09*: &nbsp;🎉 One paper is published in Information Sciences.
+- *2024.12*: &nbsp;🎉 Our paper on drone spoofing attack detection, leveraging mobility alignment from UAV positioning and communication systems, has been accepted at INFOCOM2025.
+- *2024.12*: &nbsp;🎉 A paper on a grid-based robust authentication key agreement scheme has been accepted by the TVT journal.
 
 
 # 📝 Publications 
 
-- ``Preprint`` **TESTEVAL: Benchmarking Large Language Models for Test Case Generation**.<br>
-Wenhan Wang, Chenyuan Yang, Zhijie Wang, Yuheng Huang, [**Zhaoyang Chu**](), Da Song, Lingming Zhang, An Ran Chen, Lei Ma.<br>
-\[ [Paper](../assets/TestEval.pdf) \] \[ [Benchmark](https://llm4softwaretesting.github.io/) \] \[ [Code](https://github.com/LLM4SoftwareTesting/TestEval) \] \[ [arXiv](https://arxiv.org/abs/2406.04531) \]
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSTA 2024</div><img src='images/CFExplainer_Illustration.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSTA 2024</div><img src='images/DroneMA_Framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation**.<br>
-[**Zhaoyang Chu**](), Yao Wan\*, Qian Li, Yang Wu, Hongyu Zhang, Yulei Sui, Guandong Xu, Hai Jin.<br>
-[**ISSTA 2024**](https://2024.issta.org). *The ACM SIGSOFT International Symposium on Software Testing and Analysis*. **CCF-A**.<br>
-\[ [Paper](../assets/CFExplainer.pdf) \] \[ [Code](https://github.com/Zhaoyang-Chu/counterfactual-vulnerability-detection) \] \[ [arXiv](https://arxiv.org/abs/2404.15687) \] \[ [Link](https://dl.acm.org/doi/10.1145/3650212.3652136) \]
+**DroneMA: Drone Mobility Alignment Countering AI-based Spoofing Attacks**.<br>
+[**Weiyang Li**](), Ning wang\*, Chuan ma, Tao xiang, Kai zeng.<br>
+[**INFOCOM 2025**](https://infocom2025.ieee-infocom.org/). *IEEE International Conference on Computer Communications*. **CCF-A**.<br>
+\[ [Paper](../assets/DroneMA.pdf) \] \[ [Code](https://github.com/Mr3white/DroneMA) \] 
 
 </div>
 </div>
