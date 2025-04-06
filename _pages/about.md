@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year master’s student in the School of Computer Science and Technology at [**Huazhong University of Science and Technology (HUST)**](https://www.hust.edu.cn), under the guidance of [**Prof. Yao Wan**](http://wanyao.me). I am currently seeking a PhD position in SE/ML for Fall 2025. For an overview of my academic background, please look at my [**CV**](../assets/ZhaoyangChu_CV.pdf). If you are interested, please feel free to contact me: [chuzhaoyang@hust.edu.cn](mailto:chuzhaoyang@hust.edu.cn) \| [zychu418@gmail.com](mailto:zychu418@gmail.com).
+I am a first-year PHD student in the College of Computer Science at [**Chongqing University (CQU)**](https://www.cqu.edu.cn), under the guidance of [**Prof. Ning Wang**].
 
-My research interest focuses on the intersection of **software engineering** and **machine learning**, where I am particularly intrigued by:
-- **Code Intelligence**, e.g., code generation, code search, and vulnerability detection.
-- **Trustworthy Artificial Intelligence**, e.g., explainability, privacy, and robustness.
-- **Deep Learning on Graphs**, e.g., graph neural networks (GNNs).
+My research interest focuses on the intersection of **Privacy and Security**, where I am particularly intrigued by:
+- **Pysical-layer Security**, e.g., code generation, code search, and vulnerability detection.
+- **IOT Security**, e.g., explainability, privacy, and robustness.
+- **Intelligent Unmanned System**, e.g., unmanned aerial vehicles (UAVs).
 
 <!--
 🌟🌟 **I will be in Vienna, Austria in September for ISSTA 2024! Hope to meet many of you there!** 🤗🤗
@@ -66,9 +66,10 @@ Wenhan Wang, Chenyuan Yang, Zhijie Wang, Yuheng Huang, [**Zhaoyang Chu**](), Da 
 # 🎖 Honors and Awards
 - *2022-2023*, Merit Postgraduate, First-class Scholarship for Postgraduates. 
 - *2021-2022*, Undergraduate Thesis Innovation Award, Outstanding Undergraduate.
-- *2019-2020*, **National Scholarship for Undergraduates**, Merit Student.
+
 
 
 # 📖 Educations
-- *2022.09 - 2025.06 (anticipated)*, Master, Huazhong University of Science and Technology. 
+- *2024.09 - 2028.06 (anticipated)*, PHD, Chongqing University. 
+- *2022.09 - 2024.06*, Master, Chongqing University. 
 - *2018.09 - 2022.06*, Undergraduate, Huazhong Agricultural University (Graduated with Honors).
