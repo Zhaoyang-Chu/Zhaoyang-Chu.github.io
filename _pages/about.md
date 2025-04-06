@@ -36,7 +36,7 @@ My research interest focuses on the intersection of **Privacy and Security**, wh
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSTA 2024</div><img src='images/DroneMA_Framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2025</div><img src='images/DroneMA_Framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DroneMA: Drone Mobility Alignment Countering AI-based Spoofing Attacks**.<br>
@@ -47,21 +47,24 @@ My research interest focuses on the intersection of **Privacy and Security**, wh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Sciences</div><img src='images/HGRL-DTA_Framework.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-**Hierarchical Graph Representation Learning for the Prediction of Drug-Target Binding Affinity**.<br>
-[**Zhaoyang Chu**](), Feng Huang, Haitao Fu, Yuan Quan, Xionghui Zhou, Shichao Liu, Wen Zhang\*.<br>
-[**Information Sciences**](https://www.sciencedirect.com/journal/information-sciences), 2022. **Impact Factor 8.1, CCF-B**.<br>
-\[ [Paper](../assets/HGRL-DTA.pdf) \] \[ [Code](https://github.com/Zhaoyang-Chu/HGRL-DTA) \] \[ [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025522010908) \]
+**LBRAKA: Lattice-Based Robust Authenticated Key Agreement for VANETs**.<br>
+Gao liu, [**Weiyang Li**](), Chengsheng yuan, Ning wang, Chuan ma, Nankun Mu, Zhiquan Liu, Yining Liu, Tao xiang\*.<br>
+[**IEEE Transactions on Vehicular Technology**](https://vtsociety.org/publication/ieee-transactions-vehicular-technology), 2024. **Impact Factor 6.1, SCI-Q1**.<br>
+\[ [Paper](../assets/LBRAKA.pdf) \] \[ [Link](https://ieeexplore.ieee.org/abstract/document/10791875) \]
 
 </div>
 </div>
 
 
 # 🎖 Honors and Awards
-- *2022-2023*, Merit Postgraduate, First-class Scholarship for Postgraduates. 
-- *2021-2022*, Undergraduate Thesis Innovation Award, Outstanding Undergraduate.
+- *2023-2024*, National Third Prize in the China Graduate Cybersecurity Innovation Competition (three consecutive sessions), Outstanding Individual in Chongqing City for Spiritual Civilization Construction (municipal award), First-class Scholarship for Postgraduates.
+
+- *2022-2023*, Top 10 Teaching Assistant (Modern Cryptography course, selected among 10 university-wide), First-class Scholarship for Postgraduates.
+
+- *2021-2022*, Outstanding Student Leader (selected among 10 university-wide).
+
+- *2019-2020*, Top 10 Class Monitor (selected among 10 university-wide).
 
 
 
