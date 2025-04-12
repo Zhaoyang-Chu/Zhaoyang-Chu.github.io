@@ -59,7 +59,7 @@ Wenhan Wang, Chenyuan Yang, Zhijie Wang, Yuheng Huang, [**Zhaoyang Chu**](), Da 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SANER 2025</div><img src='images/CodeModelReuse_Illustration.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**How to Select Pre-Trained Code Models for Reuse? A Learning Perspective***.<br>
+**How to Select Pre-Trained Code Models for Reuse? A Learning Perspective**.<br>
 Zhangqian Bi, Yao Wan, [**Zhaoyang Chu**](), Yufei Hu, Junyi Zhang, Hongyu Zhang, Guandong Xu, Hai Jin.<br>
 [**SANER 2025**](https://conf.researchr.org/home/saner-2025). *The IEEE International Conference on Software Analysis, Evolution and Reengineering*. **CORE A**.<br>
 **IEEE TCSE Distinguished Paper Award🏆**.<br>
