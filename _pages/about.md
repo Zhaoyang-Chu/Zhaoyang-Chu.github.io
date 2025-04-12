@@ -59,9 +59,10 @@ Wenhan Wang, Chenyuan Yang, Zhijie Wang, Yuheng Huang, [**Zhaoyang Chu**](), Da 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SANER 2025</div><img src='images/CodeModelReuse_Illustration.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**How to Select Pre-Trained Code Models for Reuse? A Learning Perspective**.<br>
+**How to Select Pre-Trained Code Models for Reuse? A Learning Perspective***.<br>
 Zhangqian Bi, Yao Wan, [**Zhaoyang Chu**](), Yufei Hu, Junyi Zhang, Hongyu Zhang, Guandong Xu, Hai Jin.<br>
 [**SANER 2025**](https://conf.researchr.org/home/saner-2025). *The IEEE International Conference on Software Analysis, Evolution and Reengineering*. **CORE A**.<br>
+**IEEE TCSE Distinguished Paper Award🏆**.<br>
 \[ [Paper](../assets/CodeModelReuse.pdf) \] \[ [Code](https://github.com/CGCL-codes/naturalcc/tree/main/examples/pcm-reuse) \] \[ [arXiv](https://arxiv.org/abs/2501.03783) \]
 
 </div>
@@ -71,7 +72,7 @@ Zhangqian Bi, Yao Wan, [**Zhaoyang Chu**](), Yufei Hu, Junyi Zhang, Hongyu Zhang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025 Findings</div><img src='images/TestEval_Framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**TESTEVAL: Benchmarking Large Language Models for Test Case Generation**.<be>
+**TESTEVAL: Benchmarking Large Language Models for Test Case Generation**.<br>
 Wenhan Wang, Chenyuan Yang, Zhijie Wang, Yuheng Huang, [**Zhaoyang Chu**](), Da Song, Lingming Zhang, An Ran Chen, Lei Ma.<br>
 [**NAACL 2025 Findings**](https://2025.naacl.org). *The Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics*. **CORE A**.<br>
 \[ [Paper](../assets/TestEval.pdf) \] \[ [Benchmark](https://llm4softwaretesting.github.io/) \] \[ [Code](https://github.com/LLM4SoftwareTesting/TestEval) \] \[ [arXiv](https://arxiv.org/abs/2406.04531) \]
@@ -83,7 +84,7 @@ Wenhan Wang, Chenyuan Yang, Zhijie Wang, Yuheng Huang, [**Zhaoyang Chu**](), Da 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/CodeRPE_Framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Can Large Language Models Serve as Evaluators for Code Summarization?** <be>
+**Can Large Language Models Serve as Evaluators for Code Summarization?** <br>
 Yang Wu, Yao Wan, [**Zhaoyang Chu**](), Wenting Zhao, Ye Liu, Hongyu Zhang, Xuanhua Shi, Philip S. Yu.<br>
 Preprint.<br>
 \[ [Paper](../assets/CodeRPE.pdf) \] \[ [Code](https://github.com/CGCL-codes/naturalcc/tree/main/examples/CodeSum-Eval) \] \[ [arXiv](https://arxiv.org/abs/2412.01333) \]
@@ -95,7 +96,7 @@ Preprint.<br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/CodeSync_Framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**CODESYNC: Synchronizing Large Language Models with Dynamic Code Evolution at Scale**.<be>
+**CODESYNC: Synchronizing Large Language Models with Dynamic Code Evolution at Scale**.<br>
 Chenlong Wang, [**Zhaoyang Chu**](), Zhengxiang Cheng, Xuyi Yang, Kaiyue Qiu, Yao Wan, Zhou Zhao, Xuanhua Shi, Dongping Chen.<br>
 Preprint.<br>
 \[ [Paper](../assets/CodeSync.pdf) \] \[ [Code](https://github.com/Lucky-voyage/Code-Sync) \] \[ [arXiv](https://arxiv.org/abs/2502.16645) \]
