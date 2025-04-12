@@ -29,9 +29,9 @@ My research interest focuses on the intersection of **artificial intelligence** 
 
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉 Our SANER 2025 paper has been awarded the IEEE TCSE Distinguished Paper Award🏆!
-- *2024.03*: &nbsp;🎉 Our research on test generation benchmark for LLMs has been accepted by NAACL 2025 Findings.
-- *2024.03*: &nbsp;🎉 Our research on pre-trained code LLM selection for reuse has been accepted by SANER 2025.
+- *2025.03*: &nbsp;🎉 Our SANER 2025 paper has been awarded the IEEE TCSE Distinguished Paper Award🏆!
+- *2025.01*: &nbsp;🎉 Our research on test generation benchmark for LLMs has been accepted by NAACL 2025 Findings.
+- *2024.12*: &nbsp;🎉 Our research on pre-trained code LLM selection for reuse has been accepted by SANER 2025.
 - *2024.03*: &nbsp;🎉 Our research on counterfactual reasoning for GNN-based vulnerability detection has been accepted by ISSTA 2024.
 - *2022.09*: &nbsp;🎉 One paper is published in Information Sciences.
 
