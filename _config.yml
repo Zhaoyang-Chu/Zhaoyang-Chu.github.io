@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhaoyang Chu (储朝阳)"
-description              : "Master's student at HUST, focusing on SE and ML research"
+description              : "PhD student at UCL, focusing on AI and SE research"
 repository               : "Zhaoyang-Chu/Zhaoyang-Chu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhaoyang Chu (储朝阳)"
   avatar           : "images/profile.jpg"
-  bio              : "Huazhong University of Science and Technology (HUST)"
-  location         : "Wuhan, China"
+  bio              : "University College London (UCL)"
+  location         : "London, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=HYu3DyEAAAAJ"
