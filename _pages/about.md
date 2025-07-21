@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a first-year PhD student in the Department of Computer Science at University College London (UCL) beginning in Fall 2025, supervised by [Prof. He Ye](https://heye.me/) and [Prof. Federica Sarro](http://www0.cs.ucl.ac.uk/staff/F.Sarro/).
+I'm an incoming PhD student in the Department of Computer Science at University College London (UCL) beginning in Fall 2025, supervised by [Prof. He Ye](https://heye.me/) and [Prof. Federica Sarro](http://www0.cs.ucl.ac.uk/staff/F.Sarro/).
 Prior to this, I was a master's student in the School of Computer Science and Technology at [**Huazhong University of Science and Technology (HUST)**](https://www.hust.edu.cn), under the guidance of [**Prof. Yao Wan**](http://wanyao.me). 
 
-My research interest focuses on the intersection of **artificial intelligence** and **software engineering**, where I am particularly intrigued by:
-- **Code Intelligence**, e.g., code generation, code search, and vulnerability detection.
-- **Trustworthy Artificial Intelligence**, e.g., explainability, privacy, and robustness.
+My research interests are deeply rooted in the latest advancements in the intersection of *artificial intelligence* and *software engineering*, where I am particularly intrigued by **multimodal coding agents**.
 For an overview of my academic background, please look at my [**CV**](../assets/ZhaoyangChu_CV.pdf). If you are interested, please feel free to contact me: [zychu418@gmail.com](mailto:zychu418@gmail.com) \| [chuzhaoyang@hust.edu.cn](mailto:chuzhaoyang@hust.edu.cn).
 
 <!--
 🌟🌟 **I will be in Vienna, Austria in September for ISSTA 2024! Hope to meet many of you there!** 🤗🤗
+- **Code Intelligence**, e.g., code generation, code search, and vulnerability detection.
+- **Trustworthy Artificial Intelligence**, e.g., explainability, privacy, and robustness.
 -->
 🌟🌟 **I will be in Rio de Janeiro, Brazil in April 2025 for ICSE 2025! Hope to meet many of you there!** 🤗🤗
 
@@ -85,6 +85,18 @@ Chenlong Wang†, [**Zhaoyang Chu†**](), Zhengxiang Cheng†, Xuyi Yang, Kaiyu
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transactions on Software Engineering</div><img src='images/CodeRPE_Framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Can Large Language Models Serve as Evaluators for Code Summarization?** <br>
+Yang Wu, Yao Wan‡, [**Zhaoyang Chu**](), Wenting Zhao, Ye Liu, Hongyu Zhang, Xuanhua Shi, Philip S. Yu.<br>
+**Transactions on Software Engineering**, 2025.<br>
+\[ [Paper](../assets/CodeRPE.pdf) \] \[ [Code](https://github.com/CGCL-codes/naturalcc/tree/main/examples/CodeSum-Eval) \] \[ [arXiv](https://arxiv.org/abs/2412.01333) \]
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SANER 2025 Distinguished Paper</div><img src='images/CodeModelReuse_Illustration.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -105,18 +117,6 @@ Zhangqian Bi, Yao Wan‡, [**Zhaoyang Chu**](), Yufei Hu, Junyi Zhang, Hongyu Zh
 Wenhan Wang†, Chenyuan Yang†, Zhijie Wang†, Yuheng Huang, [**Zhaoyang Chu**](), Da Song, Lingming Zhang, An Ran Chen, Lei Ma.<br>
 [**NAACL 2025 Findings**](https://2025.naacl.org). *The Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics*. **CORE A**.<br>
 \[ [Paper](../assets/TestEval.pdf) \] \[ [Benchmark](https://llm4softwaretesting.github.io/) \] \[ [Code](https://github.com/LLM4SoftwareTesting/TestEval) \] \[ [arXiv](https://arxiv.org/abs/2406.04531) \]
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/CodeRPE_Framework.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Can Large Language Models Serve as Evaluators for Code Summarization?** <br>
-Yang Wu, Yao Wan‡, [**Zhaoyang Chu**](), Wenting Zhao, Ye Liu, Hongyu Zhang, Xuanhua Shi, Philip S. Yu.<br>
-Preprint.<br>
-\[ [Paper](../assets/CodeRPE.pdf) \] \[ [Code](https://github.com/CGCL-codes/naturalcc/tree/main/examples/CodeSum-Eval) \] \[ [arXiv](https://arxiv.org/abs/2412.01333) \]
 
 </div>
 </div>
