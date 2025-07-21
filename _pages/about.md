@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a forst-year PhD student in the Department of Computer Science at University College London began from Fall 2025, supervised by [Prof. He Ye](https://heye.me/) and [Prof. Federica Sarro](http://www0.cs.ucl.ac.uk/staff/F.Sarro/).
-Prior to this, I was a master student in the School of Computer Science and Technology at [**Huazhong University of Science and Technology (HUST)**](https://www.hust.edu.cn), under the guidance of [**Prof. Yao Wan**](http://wanyao.me). 
+I'm a first-year PhD student in the Department of Computer Science at University College London (UCL) beginning in Fall 2025, supervised by [Prof. He Ye](https://heye.me/) and [Prof. Federica Sarro](http://www0.cs.ucl.ac.uk/staff/F.Sarro/).
+Prior to this, I was a master's student in the School of Computer Science and Technology at [**Huazhong University of Science and Technology (HUST)**](https://www.hust.edu.cn), under the guidance of [**Prof. Yao Wan**](http://wanyao.me). 
 
 My research interest focuses on the intersection of **artificial intelligence** and **software engineering**, where I am particularly intrigued by:
 - **Code Intelligence**, e.g., code generation, code search, and vulnerability detection.
@@ -48,6 +48,18 @@ Wenhan Wang, Chenyuan Yang, Zhijie Wang, Yuheng Huang, [**Zhaoyang Chu**](), Da 
 -->
 
 † indicates equal contribution. ‡ indicates the corresponding author.
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2026</div><img src='images/CodeEraser_Illustration.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Scrub It Out! Erasing Sensitive Memorization in Code Language Models via Machine Unlearning**.<br>
+[**Zhaoyang Chu**](), Yao Wan‡, Zhikun Zhang, Di Wang, Zhou Yang, Hongyu Zhang, Pan Zhou, Xuanhua Shi, Hai Jin, David Lo.<br>
+[**ICSE 2026**](https://conf.researchr.org/home/icse-2026). *The IEEE/ACM International Conference on Software Engineering*. **CORE A\***.<br>
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSTA 2024</div><img src='images/CFExplainer_Illustration.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
