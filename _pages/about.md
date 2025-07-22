@@ -98,8 +98,8 @@ Chenlong Wang†, [**Zhaoyang Chu†**](), Zhengxiang Cheng†, Xuyi Yang, Kaiyu
 <div class='paper-box-text' markdown="1">
 
 **Can Large Language Models Serve as Evaluators for Code Summarization?** <br>
-Yang Wu, Yao Wan‡, [**Zhaoyang Chu**](), Wenting Zhao, Ye Liu, Hongyu Zhang, Xuanhua Shi, Philip S. Yu.<be>
-[**IEEE Transactions on Software Engineering**](), 2025. **Impact Factor 5.6, CORE A\***.<br>
+Yang Wu, Yao Wan‡, [**Zhaoyang Chu**](), Wenting Zhao, Ye Liu, Hongyu Zhang, Xuanhua Shi, Philip S. Yu.<br>
+[**IEEE Transactions on Software Engineering**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32), 2025. **Impact Factor 5.6, CORE A\***.<br>
 \[ [Paper](../assets/CodeRPE.pdf) \] \[ [Code](https://github.com/CGCL-codes/naturalcc/tree/main/examples/CodeSum-Eval) \] \[ [arXiv](https://arxiv.org/abs/2412.01333) \]
 
 </div>
