@@ -26,7 +26,7 @@ For more details about my academic background, please see my [**CV**](../assets/
 
 I am always eager to connect and collaborate—whether you share my interests or bring a different perspective from another field. If you’d like to discuss research, exchange ideas, or just say hi, feel free to reach out at [zychu418@gmail.com](mailto:zychu418@gmail.com).
 
-🌟 **Excited to share: I will be in Rio de Janeiro for [ICSE 2026](https://conf.researchr.org/home/icse-2026) next April—looking forward to meeting new friends and collaborators there!** 🤗
+🌟🌟 **Excited to share: I will be in Rio de Janeiro for [ICSE 2026](https://conf.researchr.org/home/icse-2026) next April—looking forward to meeting many of you there!** 🤗🤗
 
 <!--
 🌟🌟 **I will be in Vienna, Austria in September for ISSTA 2024! Hope to meet many of you there!** 🤗🤗
@@ -126,6 +126,18 @@ Zhangqian Bi, Yao Wan‡, [**Zhaoyang Chu**](), Yufei Hu, Junyi Zhang, Hongyu Zh
 Wenhan Wang†, Chenyuan Yang†, Zhijie Wang†, Yuheng Huang, [**Zhaoyang Chu**](), Da Song, Lingming Zhang, An Ran Chen, Lei Ma.<br>
 [**NAACL 2025 Findings**](https://2025.naacl.org). *The Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics*. **CORE A**.<br>
 \[ [Paper](../assets/TestEval.pdf) \] \[ [Benchmark](https://llm4softwaretesting.github.io/) \] \[ [Code](https://github.com/LLM4SoftwareTesting/TestEval) \] \[ [arXiv](https://arxiv.org/abs/2406.04531) \]
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/NoWait_Illustration.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Wait, We Don't Need to "Wait"! Removing Thinking Tokens Improves Reasoning Efficiency**.<br>
+Chenlong Wang, Yuanning Feng, Dongping Chen, [**Zhaoyang Chu**](), Ranjay Krishna‡, Tianyi Zhou‡.<br>
+Preprint.<br>
+\[ [arXiv](https://arxiv.org/abs/2506.08343) \]
 
 </div>
 </div>
