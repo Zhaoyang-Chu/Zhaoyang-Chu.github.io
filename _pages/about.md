@@ -26,7 +26,7 @@ For more details about my academic background, please see my [**CV**](../assets/
 
 I am always eager to connect and collaborate—whether you share my interests or bring a different perspective from another field. If you’d like to discuss research, exchange ideas, or just say hi, feel free to reach out at [zychu418@gmail.com](mailto:zychu418@gmail.com).
 
-🌟🌟 **Excited to share: I will be in Rio de Janeiro for ICSE 2025 next April—looking forward to meeting new friends and collaborators there!** 🤗🤗
+🌟🌟 **Excited to share: I will be in Rio de Janeiro for [ICSE 2026](https://conf.researchr.org/home/icse-2026) next April—looking forward to meeting new friends and collaborators there!** 🤗🤗
 
 <!--
 🌟🌟 **I will be in Vienna, Austria in September for ISSTA 2024! Hope to meet many of you there!** 🤗🤗
@@ -35,6 +35,8 @@ I am always eager to connect and collaborate—whether you share my interests or
 -->
 
 # 🔥 News
+
+- *2025.05*: &nbsp;🎉 Our research on dynamic code knowledge synchronization for LLMs has been accepted by ICML 2025.
 - *2025.03*: &nbsp;🎉 Our SANER 2025 paper has been awarded the IEEE TCSE Distinguished Paper Award🏆!
 - *2025.01*: &nbsp;🎉 Our research on test generation benchmark for LLMs has been accepted by NAACL 2025 Findings.
 - *2024.12*: &nbsp;🎉 Our research on pre-trained code LLM selection for reuse has been accepted by SANER 2025.
@@ -88,19 +90,19 @@ Chenlong Wang†, [**Zhaoyang Chu†**](), Zhengxiang Cheng†, Xuyi Yang, Kaiyu
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transactions on Software Engineering</div><img src='images/CodeRPE_Framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Software Engineering</div><img src='images/CodeRPE_Framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Can Large Language Models Serve as Evaluators for Code Summarization?** <br>
 Yang Wu, Yao Wan‡, [**Zhaoyang Chu**](), Wenting Zhao, Ye Liu, Hongyu Zhang, Xuanhua Shi, Philip S. Yu.<br>
-**Transactions on Software Engineering**, 2025.<br>
+**IEEE Transactions on Software Engineering**, 2025. **Impact Factor 5.6, CORE A\***.<br>
 \[ [Paper](../assets/CodeRPE.pdf) \] \[ [Code](https://github.com/CGCL-codes/naturalcc/tree/main/examples/CodeSum-Eval) \] \[ [arXiv](https://arxiv.org/abs/2412.01333) \]
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SANER 2025 Distinguished Paper</div><img src='images/CodeModelReuse_Illustration.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SANER 2025 Distinguished Paper 🏆</div><img src='images/CodeModelReuse_Illustration.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **How to Select Pre-Trained Code Models for Reuse? A Learning Perspective**.<br>
