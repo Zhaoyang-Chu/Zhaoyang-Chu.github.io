@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming PhD student in the Department of Computer Science at [University College London (UCL)](https://www.ucl.ac.uk/), where I will begin my studies in Fall 2025, co-supervised by [Prof. He Ye](https://heye.me/) and [Prof. Federica Sarro](http://www0.cs.ucl.ac.uk/staff/F.Sarro/).
+I am an incoming PhD student in the Department of Computer Science at [**University College London (UCL)**](https://www.ucl.ac.uk/), where I will begin my studies in Fall 2025, co-supervised by [**Prof. He Ye**](https://heye.me/) and [**Prof. Federica Sarro**](http://www0.cs.ucl.ac.uk/staff/F.Sarro/).
 Previously, I completed my master's degree at the School of Computer Science and Technology, [**Huazhong University of Science and Technology (HUST)**](https://www.hust.edu.cn), advised by [**Prof. Yao Wan**](http://wanyao.me).
-My academic journey has also been enriched by collaborations with [Prof. Lingming Zhang](https://lingming.cs.illinois.edu/) at UIUC and [Prof. Hongyu Zhang](https://sites.google.com/site/hongyujohn/) at Chongqing University.
+My academic journey has also been enriched by collaborations with [**Prof. Lingming Zhang**](https://lingming.cs.illinois.edu/) at UIUC and [**Prof. Hongyu Zhang**](https://sites.google.com/site/hongyujohn/) at Chongqing University.
 
-> My research is inspired by the exciting frontiers at the intersection of *artificial intelligence* and *software engineering*, with a current focus on **multimodal coding agents** and intelligent software development. I am also passionate about building next-generation tools that make code smarter, more accessible, and more trustworthy.
+> My research is inspired by the exciting frontiers at the intersection of **artificial intelligence** and **software engineering**, with a current focus on **multimodal coding agents**. I am passionate about building next-generation tools that make code smarter, more accessible, and more trustworthy.
 For more details about my academic background, please see my [**CV**](../assets/ZhaoyangChu_CV.pdf).
 
 I am always eager to connect and collaborate—whether you share my interests or bring a different perspective from another field. If you’d like to discuss research, exchange ideas, or just say hi, feel free to reach out at [zychu418@gmail.com](mailto:zychu418@gmail.com).
 
-🌟🌟 **Excited to share: I will be in Rio de Janeiro for [ICSE 2026](https://conf.researchr.org/home/icse-2026) next April—looking forward to meeting new friends and collaborators there!** 🤗🤗
+🌟 **Excited to share: I will be in Rio de Janeiro for [ICSE 2026](https://conf.researchr.org/home/icse-2026) next April—looking forward to meeting new friends and collaborators there!** 🤗
 
 <!--
 🌟🌟 **I will be in Vienna, Austria in September for ISSTA 2024! Hope to meet many of you there!** 🤗🤗
@@ -36,13 +36,17 @@ I am always eager to connect and collaborate—whether you share my interests or
 
 # 🔥 News
 
-- *2025.05*: &nbsp;🎉 Our research on dynamic code knowledge synchronization for LLMs has been accepted by ICML 2025.
-- *2025.03*: &nbsp;🎉 Our SANER 2025 paper has been awarded the IEEE TCSE Distinguished Paper Award🏆!
-- *2025.01*: &nbsp;🎉 Our research on test generation benchmark for LLMs has been accepted by NAACL 2025 Findings.
-- *2024.12*: &nbsp;🎉 Our research on pre-trained code LLM selection for reuse has been accepted by SANER 2025.
-- *2024.03*: &nbsp;🎉 Our research on counterfactual reasoning for GNN-based vulnerability detection has been accepted by ISSTA 2024.
-- *2022.09*: &nbsp;🎉 One paper is published in Information Sciences.
+- *2025.07*: &nbsp;🎉 Our work on *LLM-as-a-Judge for code summarization* was accepted by **IEEE Transactions on Software Engineering**.
+- *2025.06*: &nbsp;🎉 Our paper on *machine unlearning for code LLMs* was accepted to **ICSE 2026**.
+- *2025.05*: &nbsp;🎉 Our research on *dynamic code knowledge synchronization for LLMs* has been accepted to **ICML 2025**.
+- *2025.03*: &nbsp;🎉 Our SANER 2025 paper received the **IEEE TCSE Distinguished Paper Award🏆**!
+- *2025.01*: &nbsp;🎉 Our work on *test generation benchmark for LLMs* was accepted to **NAACL 2025 Findings**.
+- *2024.12*: &nbsp;🎉 Our study on *pre-trained code model selection for reuse* was accepted to **SANER 2025**.
+- *2024.03*: &nbsp;🎉 Our research on *counterfactual reasoning for GNN-based vulnerability detectio* was accepted to **ISSTA 2024**.
 
+<!--
+- *2022.09*: &nbsp;🎉 One paper was published in **Information Sciences**.
+-->
 
 # 📝 Publications 
 
