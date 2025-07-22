@@ -17,19 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm an incoming PhD student in the Department of Computer Science at University College London (UCL) beginning in Fall 2025, supervised by [Prof. He Ye](https://heye.me/) and [Prof. Federica Sarro](http://www0.cs.ucl.ac.uk/staff/F.Sarro/).
-Prior to this, I was a master's student in the School of Computer Science and Technology at [**Huazhong University of Science and Technology (HUST)**](https://www.hust.edu.cn), under the guidance of [**Prof. Yao Wan**](http://wanyao.me). 
+I am an incoming PhD student in the Department of Computer Science at [University College London (UCL)](https://www.ucl.ac.uk/), where I will begin my studies in Fall 2025, co-supervised by [Prof. He Ye](https://heye.me/) and [Prof. Federica Sarro](http://www0.cs.ucl.ac.uk/staff/F.Sarro/).
+Previously, I completed my master's degree at the School of Computer Science and Technology, [**Huazhong University of Science and Technology (HUST)**](https://www.hust.edu.cn), advised by [**Prof. Yao Wan**](http://wanyao.me).
+My academic journey has also been enriched by collaborations with [Prof. Lingming Zhang](https://lingming.cs.illinois.edu/) at UIUC and [Prof. Hongyu Zhang](https://sites.google.com/site/hongyujohn/) at Chongqing University.
 
-My research interests are deeply rooted in the latest advancements in the intersection of *artificial intelligence* and *software engineering*, where I am particularly intrigued by **multimodal coding agents**.
-For an overview of my academic background, please look at my [**CV**](../assets/ZhaoyangChu_CV.pdf). If you are interested, please feel free to contact me: [zychu418@gmail.com](mailto:zychu418@gmail.com) \| [chuzhaoyang@hust.edu.cn](mailto:chuzhaoyang@hust.edu.cn).
+> My research is inspired by the exciting frontiers at the intersection of *artificial intelligence* and *software engineering*, with a current focus on **multimodal coding agents** and intelligent software development. I am also passionate about building next-generation tools that make code smarter, more accessible, and more trustworthy.
+For more details about my academic background, please see my [**CV**](../assets/ZhaoyangChu_CV.pdf).
+
+I am always eager to connect and collaborate—whether you share my interests or bring a different perspective from another field. If you’d like to discuss research, exchange ideas, or just say hi, feel free to reach out at [zychu418@gmail.com](mailto:zychu418@gmail.com).
+
+🌟🌟 **Excited to share: I will be in Rio de Janeiro for ICSE 2025 next April—looking forward to meeting new friends and collaborators there!** 🤗🤗
 
 <!--
 🌟🌟 **I will be in Vienna, Austria in September for ISSTA 2024! Hope to meet many of you there!** 🤗🤗
 - **Code Intelligence**, e.g., code generation, code search, and vulnerability detection.
 - **Trustworthy Artificial Intelligence**, e.g., explainability, privacy, and robustness.
 -->
-🌟🌟 **I will be in Rio de Janeiro, Brazil in April 2025 for ICSE 2025! Hope to meet many of you there!** 🤗🤗
-
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉 Our SANER 2025 paper has been awarded the IEEE TCSE Distinguished Paper Award🏆!
