@@ -26,7 +26,7 @@ For more details about my academic background, please see my [**CV**](../assets/
 
 I am always eager to connect and collaborate—whether you share my interests or bring a different perspective from another field. If you’d like to discuss research, exchange ideas, or just say hi, feel free to reach out at [zychu418@gmail.com](mailto:zychu418@gmail.com).
 
-🌟🌟 **Excited to share: I will be in Rio de Janeiro for [ICSE 2026](https://conf.researchr.org/home/icse-2026) next April—looking forward to meeting many of you there!** 🤗🤗
+🌟🌟 **Excited to share: I will be in Rio de Janeiro, Brazil for [ICSE 2026](https://conf.researchr.org/home/icse-2026) next April—looking forward to meeting many of you there!** 🤗🤗
 
 <!--
 🌟🌟 **I will be in Vienna, Austria in September for ISSTA 2024! Hope to meet many of you there!** 🤗🤗
