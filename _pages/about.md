@@ -36,6 +36,7 @@ I am always eager to connect and collaborate—whether you share my interests or
 
 # 🔥 News
 
+- *2025.08*: &nbsp;🎉 Our work on *efficient reasoning for R1-style LLMs* was accepted to **EMNLP 2025 Findings**.
 - *2025.07*: &nbsp;🎉 Our work on *LLM-as-a-Judge for code summarization* was accepted by **IEEE Transactions on Software Engineering**.
 - *2025.06*: &nbsp;🎉 Our paper on *machine unlearning for code LLMs* was accepted to **ICSE 2026**.
 - *2025.05*: &nbsp;🎉 Our research on *dynamic code knowledge synchronization for LLMs* was accepted to **ICML 2025**.
@@ -119,6 +120,18 @@ Zhangqian Bi, Yao Wan‡, [**Zhaoyang Chu**](), Yufei Hu, Junyi Zhang, Hongyu Zh
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 Findings</div><img src='images/NoWait_Illustration.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Wait, We Don't Need to "Wait"! Removing Thinking Tokens Improves Reasoning Efficiency**.<br>
+Chenlong Wang, Yuanning Feng, Dongping Chen, [**Zhaoyang Chu**](), Ranjay Krishna‡, Tianyi Zhou‡.<br>
+[**EMNLP 2025 Findings**](https://2025.emnlp.org). *The Conference on Empirical Methods in Natural Language Processing*. **CORE A\***.<br>
+\[ [arXiv](https://arxiv.org/abs/2506.08343) \]
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025 Findings</div><img src='images/TestEval_Framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -126,18 +139,6 @@ Zhangqian Bi, Yao Wan‡, [**Zhaoyang Chu**](), Yufei Hu, Junyi Zhang, Hongyu Zh
 Wenhan Wang†, Chenyuan Yang†, Zhijie Wang†, Yuheng Huang, [**Zhaoyang Chu**](), Da Song, Lingming Zhang, An Ran Chen, Lei Ma.<br>
 [**NAACL 2025 Findings**](https://2025.naacl.org). *The Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics*. **CORE A**.<br>
 \[ [Paper](../assets/TestEval.pdf) \] \[ [Benchmark](https://llm4softwaretesting.github.io/) \] \[ [Code](https://github.com/LLM4SoftwareTesting/TestEval) \] \[ [arXiv](https://arxiv.org/abs/2406.04531) \]
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/NoWait_Illustration.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Wait, We Don't Need to "Wait"! Removing Thinking Tokens Improves Reasoning Efficiency**.<br>
-Chenlong Wang, Yuanning Feng, Dongping Chen, [**Zhaoyang Chu**](), Ranjay Krishna‡, Tianyi Zhou‡.<br>
-Preprint.<br>
-\[ [arXiv](https://arxiv.org/abs/2506.08343) \]
 
 </div>
 </div>
