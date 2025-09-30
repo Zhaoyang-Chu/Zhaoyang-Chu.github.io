@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year PhD student in the Department of Computer Science at [**University College London (UCL)**](https://www.ucl.ac.uk/), where I will begin my studies in Fall 2025, co-supervised by [**Prof. He Ye**](https://heye.me/) and [**Prof. Federica Sarro**](http://www0.cs.ucl.ac.uk/staff/F.Sarro/).
+I am a first-year PhD student in the Department of Computer Science at [**University College London (UCL)**](https://www.ucl.ac.uk/), co-supervised by [**Prof. He Ye**](https://heye.me/) and [**Prof. Federica Sarro**](http://www0.cs.ucl.ac.uk/staff/F.Sarro/).
 Previously, I completed my master's degree at the School of Computer Science and Technology, [**Huazhong University of Science and Technology (HUST)**](https://www.hust.edu.cn), advised by [**Prof. Yao Wan**](http://wanyao.me).
 My academic journey has also been enriched by collaborations with [**Prof. Lingming Zhang**](https://lingming.cs.illinois.edu/) at UIUC and [**Prof. Hongyu Zhang**](https://sites.google.com/site/hongyujohn/) at Chongqing University.
 
