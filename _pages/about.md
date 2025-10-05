@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year PhD student in the Department of Computer Science at [**University College London (UCL)**](https://www.ucl.ac.uk/), co-supervised by [**Prof. He Ye**](https://heye.me/) and [**Prof. Federica Sarro**](http://www0.cs.ucl.ac.uk/staff/F.Sarro/).
+I am a first-year PhD student in the Department of Computer Science at [**University College London (UCL)**](https://www.ucl.ac.uk/), where I am fortunate to be co-supervised by [**Prof. He Ye**](https://heye.me/) and [**Prof. Federica Sarro**](http://www0.cs.ucl.ac.uk/staff/F.Sarro/).
 Previously, I completed my master's degree at the School of Computer Science and Technology, [**Huazhong University of Science and Technology (HUST)**](https://www.hust.edu.cn), advised by [**Prof. Yao Wan**](http://wanyao.me).
 My academic journey has also been enriched by collaborations with [**Prof. Lingming Zhang**](https://lingming.cs.illinois.edu/) at UIUC and [**Prof. Hongyu Zhang**](https://sites.google.com/site/hongyujohn/) at Chongqing University.
+
+I am also a co-founder of [EuniAI](https://euni.ai/), where we are building [Prometheus](https://github.com/EuniAI/Prometheus) — an open-source AI agent designed to push the boundaries of automated software development.
 
 > My research is inspired by the exciting frontiers at the intersection of **artificial intelligence** and **software engineering**, with a current focus on **multimodal coding agents**. I am passionate about building next-generation tools that make code smarter, more accessible, and more trustworthy.
 For more details about my academic background, please see my [**CV**](../assets/ZhaoyangChu_CV.pdf).
 
-I am always eager to connect and collaborate—whether you share my interests or bring a different perspective from another field. If you’d like to discuss research, exchange ideas, or just say hi, feel free to reach out at [zhaoyang.chu.25@ucl.ac.uk](mailto:zhaoyang.chu.25@ucl.ac.uk) | [zychu418@gmail.com](mailto:zychu418@gmail.com).
+🤝 **Let’s Connect**: I am always eager to connect and collaborate — whether you share my interests or bring a different perspective from another field. If you’d like to discuss research, exchange ideas, or just say hi, feel free to reach out at [zhaoyang.chu.25@ucl.ac.uk](mailto:zhaoyang.chu.25@ucl.ac.uk) | [zychu418@gmail.com](mailto:zychu418@gmail.com) | [zhaoyang.chu@euni.ai](mailto:zhaoyang.chu@euni.ai).
 
 🌟🌟 **Excited to share: I will be in Rio de Janeiro, Brazil for [ICSE 2026](https://conf.researchr.org/home/icse-2026) next April—looking forward to meeting many of you there!** 🤗🤗
 
@@ -158,12 +160,10 @@ Wenhan Wang†, Chenyuan Yang†, Zhijie Wang†, Yuheng Huang, [**Zhaoyang Chu*
 
 
 # 🎖 Honors and Awards
-- *2024-2025*, **National Scholarship for Postgraduates**.
-- *2022-2023*, Merit Postgraduate, First-class Scholarship for Postgraduates. 
-- *2021-2022*, Undergraduate Thesis Innovation Award, Outstanding Undergraduate.
-- *2019-2020*, **National Scholarship for Undergraduates**, Merit Student.
+- *2025*, **IEEE TCSE Distinguished Paper Award**.
 
 
 # 📖 Educations
-- *2022.09 - 2025.06*, Master, Huazhong University of Science and Technology (Graduated with Honors). 
-- *2018.09 - 2022.06*, Undergraduate, Huazhong Agricultural University (Graduated with Honors).
+- *2025.09 - now*, Ph.D., University College London.
+- *2022.09 - 2025.06*, M.E., Huazhong University of Science and Technology (Graduated with Honors). 
+- *2018.09 - 2022.06*, B.E., Huazhong Agricultural University (Graduated with Honors).
