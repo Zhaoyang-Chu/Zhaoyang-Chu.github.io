@@ -21,12 +21,12 @@ I am a first-year PhD student in the Department of Computer Science at [**Univer
 Previously, I completed my master's degree at the School of Computer Science and Technology, [**Huazhong University of Science and Technology (HUST)**](https://www.hust.edu.cn), advised by [**Prof. Yao Wan**](http://wanyao.me).
 My academic journey has also been enriched by collaborations with [**Prof. Lingming Zhang**](https://lingming.cs.illinois.edu/) at UIUC and [**Prof. Hongyu Zhang**](https://sites.google.com/site/hongyujohn/) at Chongqing University.
 
-I am also a co-founder of [EuniAI](https://euni.ai/), where we are building [Prometheus](https://github.com/EuniAI/Prometheus) — an open-source AI agent designed to push the boundaries of automated software development.
+I am also a co-founder of [**EuniAI**](https://euni.ai/), where we are building [**Prometheus**](https://github.com/EuniAI/Prometheus) — an open-source AI agent designed to push the boundaries of automated software development.
 
 > My research is inspired by the exciting frontiers at the intersection of **artificial intelligence** and **software engineering**, with a current focus on **multimodal coding agents**. I am passionate about building next-generation tools that make code smarter, more accessible, and more trustworthy.
 For more details about my academic background, please see my [**CV**](../assets/ZhaoyangChu_CV.pdf).
 
-🤝 **Let’s Connect**: I am always eager to connect and collaborate — whether you share my interests or bring a different perspective from another field. If you’d like to discuss research, exchange ideas, or just say hi, feel free to reach out at [zhaoyang.chu.25@ucl.ac.uk](mailto:zhaoyang.chu.25@ucl.ac.uk) | [zychu418@gmail.com](mailto:zychu418@gmail.com) | [zhaoyang.chu@euni.ai](mailto:zhaoyang.chu@euni.ai).
+🤝 **Let’s Connect**: I am always eager to connect and collaborate — whether you share my interests or bring a different perspective from another field. If you’d like to discuss research, exchange ideas, or just say hi, feel free to reach out at [zhaoyang.chu.25@ucl.ac.uk](mailto:zhaoyang.chu.25@ucl.ac.uk), [zhaoyang.chu@euni.ai](mailto:zhaoyang.chu@euni.ai), [zychu418@gmail.com](mailto:zychu418@gmail.com).
 
 🌟🌟 **Excited to share: I will be in Rio de Janeiro, Brazil for [ICSE 2026](https://conf.researchr.org/home/icse-2026) next April—looking forward to meeting many of you there!** 🤗🤗
 
