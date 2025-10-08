@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**How to say my name?**<br>
+_**How to say my name?**<br>
 You can just say it as “Jao-young Choo”.<br>
-😊 No stress about precision — I’m happy with any close version.
+😊 No stress about precision — I’m happy with any close version._
+
+---
 
 I am a first-year PhD student in the Department of Computer Science at [**University College London (UCL)**](https://www.ucl.ac.uk/), where I am fortunate to be co-supervised by [**Prof. He Ye**](https://heye.me/) and [**Prof. Federica Sarro**](http://www0.cs.ucl.ac.uk/staff/F.Sarro/).
 Previously, I completed my master's degree at the School of Computer Science and Technology, [**Huazhong University of Science and Technology (HUST)**](https://www.hust.edu.cn), advised by [**Prof. Yao Wan**](http://wanyao.me).
