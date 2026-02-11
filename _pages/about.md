@@ -65,14 +65,51 @@ Wenhan Wang, Chenyuan Yang, Zhijie Wang, Yuheng Huang, [**Zhaoyang Chu**](), Da 
 \[ [Paper](../assets/TestEval.pdf) \] \[ [Benchmark](https://llm4softwaretesting.github.io/) \] \[ [Code](https://github.com/LLM4SoftwareTesting/TestEval) \] \[ [arXiv](https://arxiv.org/abs/2406.04531) \]
 -->
 
-† indicates equal contribution. ‡ indicates the corresponding author.
+\* indicates equal contribution. † indicates the corresponding author.
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Prometheus.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Prometheus: Towards Long-Horizon Codebase Navigation for Repository-Level Problem Solving**.<br>
+Yue Pan\*, Zimin Chen\*, Siyu Lu, [**Zhaoyang Chu**](), Xiang Li, Han Li, Yang Feng, Claire Le Goues, Federica Sarro, Martin Monperrus, He Ye†.<br>
+Preprint.<br>
+\[ [Paper](https://arxiv.org/abs/2507.19942) \] \[ [Code](https://github.com/EuniAI/Prometheus) \]
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ContextBench.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ContextBench: A Benchmark for Context Retrieval in Coding Agents**.<br>
+Han Li, Letian Zhu\*, Bohan Zhang\*, Rili Feng\*, Jiaming Wang, Yue Pan, Earl T. Barr, Federica Sarro, [**Zhaoyang Chu†**](), He Ye†.<br>
+Preprint.<br>
+\[ [Homepage](https://contextbench.github.io/) \] \[ [Paper](https://arxiv.org/abs/2602.05892) \] \[ [Code](https://github.com/EuniAI/ContextBench) \] \[ [Dataset](https://huggingface.co/datasets/Contextbench/ContextBench) \] 
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/CGBridge.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Bridging Code Graphs and Large Language Models for Better Code Understanding**.<br>
+Zeqi Chen, [**Zhaoyang Chu**](), Yi Gui, Feng Guo, Yao Wan, Chuan Shi†.<br>
+Preprint.<br>
+\[ [Paper](https://arxiv.org/abs/2512.07666) \] \[ [Code](https://github.com/OmniJax/CGBridge) \]
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2026</div><img src='images/CodeEraser_Illustration.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Scrub It Out! Erasing Sensitive Memorization in Code Language Models via Machine Unlearning**.<br>
-[**Zhaoyang Chu**](), Yao Wan‡, Zhikun Zhang, Di Wang, Zhou Yang, Hongyu Zhang, Pan Zhou, Xuanhua Shi, Hai Jin, David Lo.<br>
+[**Zhaoyang Chu**](), Yao Wan†, Zhikun Zhang, Di Wang, Zhou Yang, Hongyu Zhang, Pan Zhou, Xuanhua Shi, Hai Jin, David Lo.<br>
 [**ICSE 2026**](https://conf.researchr.org/home/icse-2026). *The IEEE/ACM International Conference on Software Engineering*.<br>
 \[ [Paper](https://arxiv.org/abs/2509.13755) \] \[ [Code](https://github.com/Zhaoyang-Chu/code-unlearning) \] 
 
@@ -84,7 +121,7 @@ Wenhan Wang, Chenyuan Yang, Zhijie Wang, Yuheng Huang, [**Zhaoyang Chu**](), Da 
 <div class='paper-box-text' markdown="1">
 
 **CODESYNC: Synchronizing Large Language Models with Dynamic Code Evolution at Scale**.<br>
-Chenlong Wang†, [**Zhaoyang Chu†**](), Zhengxiang Cheng†, Xuyi Yang, Kaiyue Qiu, Yao Wan‡, Zhou Zhao, Xuanhua Shi, Dongping Chen.<br>
+Chenlong Wang\*, [**Zhaoyang Chu\***](), Zhengxiang Cheng\*, Xuyi Yang, Kaiyue Qiu, Yao Wan†, Zhou Zhao, Xuanhua Shi, Dongping Chen.<br>
 [**ICML 2025**](https://icml.cc/Conferences/2025). *International Conference on Machine Learning*.<br>
 \[ [Paper](https://arxiv.org/abs/2502.16645) \] \[ [Code](https://github.com/Lucky-Wang-Chenlong/CodeSync) \] 
 
@@ -96,7 +133,7 @@ Chenlong Wang†, [**Zhaoyang Chu†**](), Zhengxiang Cheng†, Xuyi Yang, Kaiyu
 <div class='paper-box-text' markdown="1">
 
 **How to Select Pre-Trained Code Models for Reuse? A Learning Perspective**.<br>
-Zhangqian Bi, Yao Wan‡, [**Zhaoyang Chu**](), Yufei Hu, Junyi Zhang, Hongyu Zhang, Guandong Xu, Hai Jin.<br>
+Zhangqian Bi, Yao Wan†, [**Zhaoyang Chu**](), Yufei Hu, Junyi Zhang, Hongyu Zhang, Guandong Xu, Hai Jin.<br>
 [**SANER 2025**](https://conf.researchr.org/home/saner-2025). *The IEEE International Conference on Software Analysis, Evolution and Reengineering*.<br>
 **IEEE TCSE Distinguished Paper Award🏆**.<br>
 \[ [Paper](https://arxiv.org/abs/2501.03783) \] \[ [Code](https://github.com/CGCL-codes/naturalcc/tree/main/examples/pcm-reuse) \] 
@@ -109,7 +146,7 @@ Zhangqian Bi, Yao Wan‡, [**Zhaoyang Chu**](), Yufei Hu, Junyi Zhang, Hongyu Zh
 <div class='paper-box-text' markdown="1">
 
 **Can Large Language Models Serve as Evaluators for Code Summarization?** <br>
-Yang Wu, Yao Wan‡, [**Zhaoyang Chu**](), Wenting Zhao, Ye Liu, Hongyu Zhang, Xuanhua Shi, Philip S. Yu.<br>
+Yang Wu, Yao Wan†, [**Zhaoyang Chu**](), Wenting Zhao, Ye Liu, Hongyu Zhang, Xuanhua Shi, Philip S. Yu.<br>
 [**IEEE Transactions on Software Engineering (TSE)**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32), 2025.<br>
 \[ [Paper](https://arxiv.org/abs/2412.01333) \] \[ [Code](https://github.com/CGCL-codes/naturalcc/tree/main/examples/CodeSum-Eval) \] 
 
@@ -121,7 +158,7 @@ Yang Wu, Yao Wan‡, [**Zhaoyang Chu**](), Wenting Zhao, Ye Liu, Hongyu Zhang, X
 <div class='paper-box-text' markdown="1">
 
 **Wait, We Don't Need to "Wait"! Removing Thinking Tokens Improves Reasoning Efficiency**.<br>
-Chenlong Wang, Yuanning Feng, Dongping Chen, [**Zhaoyang Chu**](), Ranjay Krishna‡, Tianyi Zhou‡.<br>
+Chenlong Wang, Yuanning Feng, Dongping Chen, [**Zhaoyang Chu**](), Ranjay Krishna†, Tianyi Zhou†.<br>
 [**EMNLP 2025 Findings**](https://2025.emnlp.org). *The Conference on Empirical Methods in Natural Language Processing*.<br>
 \[ [Paper](https://arxiv.org/abs/2506.08343) \]
 
@@ -133,7 +170,7 @@ Chenlong Wang, Yuanning Feng, Dongping Chen, [**Zhaoyang Chu**](), Ranjay Krishn
 <div class='paper-box-text' markdown="1">
 
 **TESTEVAL: Benchmarking Large Language Models for Test Case Generation**.<br>
-Wenhan Wang†, Chenyuan Yang†, Zhijie Wang†, Yuheng Huang, [**Zhaoyang Chu**](), Da Song, Lingming Zhang, An Ran Chen, Lei Ma.<br>
+Wenhan Wang\*, Chenyuan Yang\*, Zhijie Wang\*, Yuheng Huang, [**Zhaoyang Chu**](), Da Song, Lingming Zhang, An Ran Chen, Lei Ma.<br>
 [**NAACL 2025 Findings**](https://2025.naacl.org). *The Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics*.<br>
 \[ [Homepage](https://llm4softwaretesting.github.io/) \] \[ [Paper](https://arxiv.org/abs/2406.04531) \] \[ [Code](https://github.com/LLM4SoftwareTesting/TestEval) \] 
 
@@ -145,7 +182,7 @@ Wenhan Wang†, Chenyuan Yang†, Zhijie Wang†, Yuheng Huang, [**Zhaoyang Chu*
 <div class='paper-box-text' markdown="1">
 
 **Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation**.<br>
-[**Zhaoyang Chu**](), Yao Wan‡, Qian Li, Yang Wu, Hongyu Zhang, Yulei Sui, Guandong Xu, Hai Jin.<br>
+[**Zhaoyang Chu**](), Yao Wan†, Qian Li, Yang Wu, Hongyu Zhang, Yulei Sui, Guandong Xu, Hai Jin.<br>
 [**ISSTA 2024**](https://2024.issta.org). *The ACM SIGSOFT International Symposium on Software Testing and Analysis*.<br>
 \[ [Paper](https://arxiv.org/abs/2404.15687) \] \[ [Code](https://github.com/Zhaoyang-Chu/counterfactual-vulnerability-detection) \] 
 
@@ -158,7 +195,7 @@ Wenhan Wang†, Chenyuan Yang†, Zhijie Wang†, Yuheng Huang, [**Zhaoyang Chu*
 <div class='paper-box-text' markdown="1">
 
 **Hierarchical Graph Representation Learning for the Prediction of Drug-Target Binding Affinity**.<br>
-[**Zhaoyang Chu†**](), Feng Huang†, Haitao Fu, Yuan Quan, Xionghui Zhou, Shichao Liu, Wen Zhang‡.<br>
+[**Zhaoyang Chu\***](), Feng Huang\*, Haitao Fu, Yuan Quan, Xionghui Zhou, Shichao Liu, Wen Zhang†.<br>
 [**Information Sciences**](https://www.sciencedirect.com/journal/information-sciences), 2022. **Impact Factor 8.1, CORE A**.<br>
 \[ [Paper](../assets/HGRL-DTA.pdf) \] \[ [Code](https://github.com/Zhaoyang-Chu/HGRL-DTA) \] \[ [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025522010908) \]
 
