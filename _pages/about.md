@@ -73,20 +73,8 @@ Wenhan Wang, Chenyuan Yang, Zhijie Wang, Yuheng Huang, [**Zhaoyang Chu**](), Da 
 
 **Scrub It Out! Erasing Sensitive Memorization in Code Language Models via Machine Unlearning**.<br>
 [**Zhaoyang Chu**](), Yao Wan‡, Zhikun Zhang, Di Wang, Zhou Yang, Hongyu Zhang, Pan Zhou, Xuanhua Shi, Hai Jin, David Lo.<br>
-[**ICSE 2026**](https://conf.researchr.org/home/icse-2026). *The IEEE/ACM International Conference on Software Engineering*. **CORE A\***.<br>
-\[ [Paper](../assets/CodeEraser.pdf) \] \[ [Code](https://github.com/Zhaoyang-Chu/code-unlearning) \] \[ [arXiv](https://arxiv.org/abs/2509.13755) \]
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSTA 2024</div><img src='images/CFExplainer_Illustration.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation**.<br>
-[**Zhaoyang Chu**](), Yao Wan‡, Qian Li, Yang Wu, Hongyu Zhang, Yulei Sui, Guandong Xu, Hai Jin.<br>
-[**ISSTA 2024**](https://2024.issta.org). *The ACM SIGSOFT International Symposium on Software Testing and Analysis*. **CORE A**.<br>
-\[ [Paper](../assets/CFExplainer.pdf) \] \[ [Code](https://github.com/Zhaoyang-Chu/counterfactual-vulnerability-detection) \] \[ [arXiv](https://arxiv.org/abs/2404.15687) \] \[ [Link](https://dl.acm.org/doi/10.1145/3650212.3652136) \]
+[**ICSE 2026**](https://conf.researchr.org/home/icse-2026). *The IEEE/ACM International Conference on Software Engineering*.<br>
+\[ [Paper](https://arxiv.org/abs/2509.13755) \] \[ [Code](https://github.com/Zhaoyang-Chu/code-unlearning) \] 
 
 </div>
 </div>
@@ -97,20 +85,8 @@ Wenhan Wang, Chenyuan Yang, Zhijie Wang, Yuheng Huang, [**Zhaoyang Chu**](), Da 
 
 **CODESYNC: Synchronizing Large Language Models with Dynamic Code Evolution at Scale**.<br>
 Chenlong Wang†, [**Zhaoyang Chu†**](), Zhengxiang Cheng†, Xuyi Yang, Kaiyue Qiu, Yao Wan‡, Zhou Zhao, Xuanhua Shi, Dongping Chen.<br>
-[**ICML 2025**](https://icml.cc/Conferences/2025). *International Conference on Machine Learning*. **CORE A\***.<br>
-\[ [Paper](../assets/CodeSync.pdf) \] \[ [Code](https://github.com/Lucky-Wang-Chenlong/CodeSync) \] \[ [arXiv](https://arxiv.org/abs/2502.16645) \]
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Software Engineering</div><img src='images/CodeRPE_Framework.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Can Large Language Models Serve as Evaluators for Code Summarization?** <br>
-Yang Wu, Yao Wan‡, [**Zhaoyang Chu**](), Wenting Zhao, Ye Liu, Hongyu Zhang, Xuanhua Shi, Philip S. Yu.<br>
-[**IEEE Transactions on Software Engineering**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32), 2025. **Impact Factor 5.6, CORE A\***.<br>
-\[ [Paper](../assets/CodeRPE.pdf) \] \[ [Code](https://github.com/CGCL-codes/naturalcc/tree/main/examples/CodeSum-Eval) \] \[ [arXiv](https://arxiv.org/abs/2412.01333) \]
+[**ICML 2025**](https://icml.cc/Conferences/2025). *International Conference on Machine Learning*.<br>
+\[ [Paper](https://arxiv.org/abs/2502.16645) \] \[ [Code](https://github.com/Lucky-Wang-Chenlong/CodeSync) \] 
 
 </div>
 </div>
@@ -121,9 +97,21 @@ Yang Wu, Yao Wan‡, [**Zhaoyang Chu**](), Wenting Zhao, Ye Liu, Hongyu Zhang, X
 
 **How to Select Pre-Trained Code Models for Reuse? A Learning Perspective**.<br>
 Zhangqian Bi, Yao Wan‡, [**Zhaoyang Chu**](), Yufei Hu, Junyi Zhang, Hongyu Zhang, Guandong Xu, Hai Jin.<br>
-[**SANER 2025**](https://conf.researchr.org/home/saner-2025). *The IEEE International Conference on Software Analysis, Evolution and Reengineering*. **CORE A**.<br>
+[**SANER 2025**](https://conf.researchr.org/home/saner-2025). *The IEEE International Conference on Software Analysis, Evolution and Reengineering*.<br>
 **IEEE TCSE Distinguished Paper Award🏆**.<br>
-\[ [Paper](../assets/CodeModelReuse.pdf) \] \[ [Code](https://github.com/CGCL-codes/naturalcc/tree/main/examples/pcm-reuse) \] \[ [arXiv](https://arxiv.org/abs/2501.03783) \]
+\[ [Paper](https://arxiv.org/abs/2501.03783) \] \[ [Code](https://github.com/CGCL-codes/naturalcc/tree/main/examples/pcm-reuse) \] 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Software Engineering</div><img src='images/CodeRPE_Framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Can Large Language Models Serve as Evaluators for Code Summarization?** <br>
+Yang Wu, Yao Wan‡, [**Zhaoyang Chu**](), Wenting Zhao, Ye Liu, Hongyu Zhang, Xuanhua Shi, Philip S. Yu.<br>
+[**IEEE Transactions on Software Engineering (TSE)**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32), 2025.<br>
+\[ [Paper](https://arxiv.org/abs/2412.01333) \] \[ [Code](https://github.com/CGCL-codes/naturalcc/tree/main/examples/CodeSum-Eval) \] 
 
 </div>
 </div>
@@ -134,8 +122,8 @@ Zhangqian Bi, Yao Wan‡, [**Zhaoyang Chu**](), Yufei Hu, Junyi Zhang, Hongyu Zh
 
 **Wait, We Don't Need to "Wait"! Removing Thinking Tokens Improves Reasoning Efficiency**.<br>
 Chenlong Wang, Yuanning Feng, Dongping Chen, [**Zhaoyang Chu**](), Ranjay Krishna‡, Tianyi Zhou‡.<br>
-[**EMNLP 2025 Findings**](https://2025.emnlp.org). *The Conference on Empirical Methods in Natural Language Processing*. **CORE A\***.<br>
-\[ [arXiv](https://arxiv.org/abs/2506.08343) \]
+[**EMNLP 2025 Findings**](https://2025.emnlp.org). *The Conference on Empirical Methods in Natural Language Processing*.<br>
+\[ [Paper](https://arxiv.org/abs/2506.08343) \]
 
 </div>
 </div>
@@ -146,14 +134,27 @@ Chenlong Wang, Yuanning Feng, Dongping Chen, [**Zhaoyang Chu**](), Ranjay Krishn
 
 **TESTEVAL: Benchmarking Large Language Models for Test Case Generation**.<br>
 Wenhan Wang†, Chenyuan Yang†, Zhijie Wang†, Yuheng Huang, [**Zhaoyang Chu**](), Da Song, Lingming Zhang, An Ran Chen, Lei Ma.<br>
-[**NAACL 2025 Findings**](https://2025.naacl.org). *The Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics*. **CORE A**.<br>
-\[ [Paper](../assets/TestEval.pdf) \] \[ [Benchmark](https://llm4softwaretesting.github.io/) \] \[ [Code](https://github.com/LLM4SoftwareTesting/TestEval) \] \[ [arXiv](https://arxiv.org/abs/2406.04531) \]
+[**NAACL 2025 Findings**](https://2025.naacl.org). *The Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics*.<br>
+\[ [Homepage](https://llm4softwaretesting.github.io/) \] \[ [Paper](https://arxiv.org/abs/2406.04531) \] \[ [Code](https://github.com/LLM4SoftwareTesting/TestEval) \] 
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Sciences</div><img src='images/HGRL-DTA_Framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSTA 2024</div><img src='images/CFExplainer_Illustration.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation**.<br>
+[**Zhaoyang Chu**](), Yao Wan‡, Qian Li, Yang Wu, Hongyu Zhang, Yulei Sui, Guandong Xu, Hai Jin.<br>
+[**ISSTA 2024**](https://2024.issta.org). *The ACM SIGSOFT International Symposium on Software Testing and Analysis*.<br>
+\[ [Paper](https://arxiv.org/abs/2404.15687) \] \[ [Code](https://github.com/Zhaoyang-Chu/counterfactual-vulnerability-detection) \] 
+
+</div>
+</div>
+
+
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Sciences</div><img src='images/HGRL-DTA_Framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Hierarchical Graph Representation Learning for the Prediction of Drug-Target Binding Affinity**.<br>
@@ -162,7 +163,7 @@ Wenhan Wang†, Chenyuan Yang†, Zhijie Wang†, Yuheng Huang, [**Zhaoyang Chu*
 \[ [Paper](../assets/HGRL-DTA.pdf) \] \[ [Code](https://github.com/Zhaoyang-Chu/HGRL-DTA) \] \[ [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025522010908) \]
 
 </div>
-</div>
+</div> -->
 
 
 # 🎖 Honors and Awards
