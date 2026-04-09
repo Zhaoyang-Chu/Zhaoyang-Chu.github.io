@@ -23,16 +23,18 @@ You can just say it as “Jao-young Choo”.<br>
 
 ---
 
-I am a first-year PhD student in the Department of Computer Science at [**University College London (UCL)**](https://www.ucl.ac.uk/), where I am fortunate to be co-supervised by [**Prof. He Ye**](https://heye.me/) and [**Prof. Federica Sarro**](http://www0.cs.ucl.ac.uk/staff/F.Sarro/).
+I am a first-year PhD student in the Department of Computer Science at [**University College London (UCL)**](https://www.ucl.ac.uk/), where I am fortunate to be co-supervised by [**Prof. Federica Sarro**](http://www0.cs.ucl.ac.uk/staff/F.Sarro/) and [**Dr. He Ye**](https://heye.me/).
 Previously, I completed my master's degree at the School of Computer Science and Technology, [**Huazhong University of Science and Technology (HUST)**](https://www.hust.edu.cn), advised by [**Prof. Yao Wan**](http://wanyao.me).
 My academic journey has also been enriched by collaborations with [**Prof. Lingming Zhang**](https://lingming.cs.illinois.edu/) at UIUC and [**Prof. Hongyu Zhang**](https://sites.google.com/site/hongyujohn/) at Chongqing University.
 
+<!--
 I am also a co-founder of [**EuniAI**](https://euni.ai/), where we are building [**Prometheus**](https://github.com/EuniAI/Prometheus) — an open-source AI agent designed to push the boundaries of automated software development.
+-->
 
-> My research is inspired by the exciting frontiers at the intersection of **artificial intelligence** and **software engineering**, with a current focus on **multimodal coding agents**. I am passionate about building next-generation tools that make code smarter, more accessible, and more trustworthy.
+> My research interests lie at the intersection of software engineering and artificial intelligence, with an emphasis on **reliable coding agents** for realistic software engineering workflows.
 For more details about my academic background, please see my [**CV**](../assets/ZhaoyangChu_CV.pdf).
 
-🤝 **Let’s Connect**: I am always eager to connect and collaborate — whether you share my interests or bring a different perspective from another field. If you’d like to discuss research, exchange ideas, or just say hi, feel free to reach out at [zhaoyang.chu.25@ucl.ac.uk](mailto:zhaoyang.chu.25@ucl.ac.uk), [zhaoyang.chu@euni.ai](mailto:zhaoyang.chu@euni.ai), [zychu418@gmail.com](mailto:zychu418@gmail.com).
+🤝 **Let’s Connect**: I am always eager to connect and collaborate — whether you share my interests or bring a different perspective from another field. If you’d like to discuss research, exchange ideas, or just say hi, feel free to reach out at [zhaoyang.chu.25@ucl.ac.uk](mailto:zhaoyang.chu.25@ucl.ac.uk), [zychu418@gmail.com](mailto:zychu418@gmail.com).
 
 🌟🌟 **Excited to share: I will be in Rio de Janeiro, Brazil for [ICSE 2026](https://conf.researchr.org/home/icse-2026) next April—looking forward to meeting many of you there!** 🤗🤗
 
@@ -44,12 +46,14 @@ For more details about my academic background, please see my [**CV**](../assets/
 
 # 🔥 News
 
-- *2025.08*: &nbsp;🎉 Our work on *efficient reasoning for R1-style LLMs* was accepted to **EMNLP 2025 Findings**.
+- *2026.04*: &nbsp;🎉 Our two post-training papers on *code execution reasoning* and *structure-aware code understanding* was accepted to **ACL 2026**.
+- *2026.03*: &nbsp;🎉 Our paper on *LLM hallucination mitigation in code summarization* was accepted to **FSE 2026**.
+- *2025.08*: &nbsp;🎉 Our work on *efficient reasoning for R1-style LLMs* was accepted to **EMNLP 2025**.
 - *2025.07*: &nbsp;🎉 Our work on *LLM-as-a-Judge for code summarization* was accepted by **IEEE Transactions on Software Engineering**.
 - *2025.06*: &nbsp;🎉 Our paper on *machine unlearning for code LLMs* was accepted to **ICSE 2026**.
 - *2025.05*: &nbsp;🎉 Our research on *dynamic code knowledge synchronization for LLMs* was accepted to **ICML 2025**.
 - *2025.03*: &nbsp;🎉 Our SANER 2025 paper received the **IEEE TCSE Distinguished Paper Award🏆**!
-- *2025.01*: &nbsp;🎉 Our work on *test generation benchmark for LLMs* was accepted to **NAACL 2025 Findings**.
+- *2025.01*: &nbsp;🎉 Our work on *test generation benchmark for LLMs* was accepted to **NAACL 2025**.
 - *2024.12*: &nbsp;🎉 Our study on *pre-trained code model selection for reuse* was accepted to **SANER 2025**.
 - *2024.03*: &nbsp;🎉 Our research on *counterfactual reasoning for GNN-based vulnerability detectio* was accepted to **ISSTA 2024**.
 
@@ -93,12 +97,12 @@ Preprint.<br>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/CGBridge.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/CGBridge.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Bridging Code Graphs and Large Language Models for Better Code Understanding**.<br>
 Zeqi Chen, [**Zhaoyang Chu**](), Yi Gui, Feng Guo, Yao Wan, Chuan Shi†.<br>
-Preprint.<br>
+[**ACL 2026 Findings**](https://2026.aclweb.org/). *The 64th Annual Meeting of the Association for Computational Linguistics*.<br>
 \[ [Paper](https://arxiv.org/abs/2512.07666) \] \[ [Code](https://github.com/OmniJax/CGBridge) \]
 
 </div>
@@ -110,7 +114,7 @@ Preprint.<br>
 
 **Scrub It Out! Erasing Sensitive Memorization in Code Language Models via Machine Unlearning**.<br>
 [**Zhaoyang Chu**](), Yao Wan†, Zhikun Zhang, Di Wang, Zhou Yang, Hongyu Zhang, Pan Zhou, Xuanhua Shi, Hai Jin, David Lo.<br>
-[**ICSE 2026**](https://conf.researchr.org/home/icse-2026). *The IEEE/ACM International Conference on Software Engineering*.<br>
+[**ICSE 2026**](https://conf.researchr.org/home/icse-2026). *The 48th IEEE/ACM International Conference on Software Engineering*.<br>
 \[ [Paper](https://arxiv.org/abs/2509.13755) \] \[ [Code](https://github.com/Zhaoyang-Chu/code-unlearning) \] 
 
 </div>
@@ -122,7 +126,7 @@ Preprint.<br>
 
 **CODESYNC: Synchronizing Large Language Models with Dynamic Code Evolution at Scale**.<br>
 Chenlong Wang\*, [**Zhaoyang Chu\***](), Zhengxiang Cheng\*, Xuyi Yang, Kaiyue Qiu, Yao Wan†, Zhou Zhao, Xuanhua Shi, Dongping Chen.<br>
-[**ICML 2025**](https://icml.cc/Conferences/2025). *International Conference on Machine Learning*.<br>
+[**ICML 2025**](https://icml.cc/Conferences/2025). *The 42nd International Conference on Machine Learning*.<br>
 \[ [Paper](https://arxiv.org/abs/2502.16645) \] \[ [Code](https://github.com/Lucky-Wang-Chenlong/CodeSync) \] 
 
 </div>
@@ -134,7 +138,7 @@ Chenlong Wang\*, [**Zhaoyang Chu\***](), Zhengxiang Cheng\*, Xuyi Yang, Kaiyue Q
 
 **How to Select Pre-Trained Code Models for Reuse? A Learning Perspective**.<br>
 Zhangqian Bi, Yao Wan†, [**Zhaoyang Chu**](), Yufei Hu, Junyi Zhang, Hongyu Zhang, Guandong Xu, Hai Jin.<br>
-[**SANER 2025**](https://conf.researchr.org/home/saner-2025). *The IEEE International Conference on Software Analysis, Evolution and Reengineering*.<br>
+[**SANER 2025**](https://conf.researchr.org/home/saner-2025). *The 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering*.<br>
 **IEEE TCSE Distinguished Paper Award🏆**.<br>
 \[ [Paper](https://arxiv.org/abs/2501.03783) \] \[ [Code](https://github.com/CGCL-codes/naturalcc/tree/main/examples/pcm-reuse) \] 
 
@@ -159,7 +163,7 @@ Yang Wu, Yao Wan†, [**Zhaoyang Chu**](), Wenting Zhao, Ye Liu, Hongyu Zhang, X
 
 **Wait, We Don't Need to "Wait"! Removing Thinking Tokens Improves Reasoning Efficiency**.<br>
 Chenlong Wang, Yuanning Feng, Dongping Chen, [**Zhaoyang Chu**](), Ranjay Krishna†, Tianyi Zhou†.<br>
-[**EMNLP 2025 Findings**](https://2025.emnlp.org). *The Conference on Empirical Methods in Natural Language Processing*.<br>
+[**EMNLP 2025 Findings**](https://2025.emnlp.org). *The 2025 Conference on Empirical Methods in Natural Language Processing*.<br>
 \[ [Paper](https://arxiv.org/abs/2506.08343) \]
 
 </div>
@@ -171,7 +175,7 @@ Chenlong Wang, Yuanning Feng, Dongping Chen, [**Zhaoyang Chu**](), Ranjay Krishn
 
 **TESTEVAL: Benchmarking Large Language Models for Test Case Generation**.<br>
 Wenhan Wang\*, Chenyuan Yang\*, Zhijie Wang\*, Yuheng Huang, [**Zhaoyang Chu**](), Da Song, Lingming Zhang, An Ran Chen, Lei Ma.<br>
-[**NAACL 2025 Findings**](https://2025.naacl.org). *The Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics*.<br>
+[**NAACL 2025 Findings**](https://2025.naacl.org). *The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics*.<br>
 \[ [Homepage](https://llm4softwaretesting.github.io/) \] \[ [Paper](https://arxiv.org/abs/2406.04531) \] \[ [Code](https://github.com/LLM4SoftwareTesting/TestEval) \] 
 
 </div>
@@ -183,7 +187,7 @@ Wenhan Wang\*, Chenyuan Yang\*, Zhijie Wang\*, Yuheng Huang, [**Zhaoyang Chu**](
 
 **Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation**.<br>
 [**Zhaoyang Chu**](), Yao Wan†, Qian Li, Yang Wu, Hongyu Zhang, Yulei Sui, Guandong Xu, Hai Jin.<br>
-[**ISSTA 2024**](https://2024.issta.org). *The ACM SIGSOFT International Symposium on Software Testing and Analysis*.<br>
+[**ISSTA 2024**](https://2024.issta.org). *The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis*.<br>
 \[ [Paper](https://arxiv.org/abs/2404.15687) \] \[ [Code](https://github.com/Zhaoyang-Chu/counterfactual-vulnerability-detection) \] 
 
 </div>
