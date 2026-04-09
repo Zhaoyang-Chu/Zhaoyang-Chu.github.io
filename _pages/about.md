@@ -97,18 +97,6 @@ Preprint.<br>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/CGBridge.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Bridging Code Graphs and Large Language Models for Better Code Understanding**.<br>
-Zeqi Chen, [**Zhaoyang Chu**](), Yi Gui, Feng Guo, Yao Wan, Chuan Shi†.<br>
-[**ACL 2026 Findings**](https://2026.aclweb.org/). *The 64th Annual Meeting of the Association for Computational Linguistics*.<br>
-\[ [Paper](https://arxiv.org/abs/2512.07666) \] \[ [Code](https://github.com/OmniJax/CGBridge) \]
-
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2026</div><img src='images/CodeEraser_Illustration.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -120,6 +108,41 @@ Zeqi Chen, [**Zhaoyang Chu**](), Yi Gui, Feng Guo, Yao Wan, Chuan Shi†.<br>
 </div>
 </div>
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2026</div><img src='images/HALLU.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Hallucinations in LLM-based Code Summarization: Unveiling, Detection, and Mitigation**.<br>
+Guanghua Wan, Yuanning Feng, Yao Wan†, [**Zhaoyang Chu**](), Zhangqian Bi, Junxiao Han, Zhou Zhao, Hongyu Zhang, Pingpeng Yuan, Xuanhua Shi, Hai Jin.<br>
+[**FSE 2026**](https://conf.researchr.org/home/fse-2026). *The ACM International Conference on the Foundations of Software Engineering*.<br>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/ExecVerify.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ExecVerify: White-Box RL with Verifiable Stepwise Rewards for Code Execution Reasoning**.<br>
+Lingxiao Tang, He Ye, [**Zhaoyang Chu**](), Muyang Ye, Zhongxin Liu, Xiaoxue Ren, Lingfeng Bao†.<br>
+[**ACL 2026**](https://2026.aclweb.org/). *The 64th Annual Meeting of the Association for Computational Linguistics*.<br>
+\[ [Paper](https://arxiv.org/abs/2603.11226) \] \[ [Code](https://github.com/tlx000000001/ExecVerify) \]
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/CGBridge.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Bridging Code Graphs and Large Language Models for Better Code Understanding**.<br>
+Zeqi Chen, [**Zhaoyang Chu**](), Yi Gui, Feng Guo, Yao Wan, Chuan Shi†.<br>
+[**ACL 2026 Findings**](https://2026.aclweb.org/). *The 64th Annual Meeting of the Association for Computational Linguistics*.<br>
+\[ [Paper](https://arxiv.org/abs/2512.07666) \] \[ [Code](https://github.com/OmniJax/CGBridge) \]
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/CodeSync_Framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
