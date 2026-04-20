@@ -187,7 +187,7 @@ Yang Wu, Yao Wan†, [**Zhaoyang Chu**](), Wenting Zhao, Ye Liu, Hongyu Zhang, X
 **Wait, We Don't Need to "Wait"! Removing Thinking Tokens Improves Reasoning Efficiency**.<br>
 Chenlong Wang, Yuanning Feng, Dongping Chen, [**Zhaoyang Chu**](), Ranjay Krishna†, Tianyi Zhou†.<br>
 [**EMNLP 2025 Findings**](https://2025.emnlp.org). *The 2025 Conference on Empirical Methods in Natural Language Processing*.<br>
-\[ [Paper](https://arxiv.org/abs/2506.08343) \]
+\[ [Paper](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.394.pdf) \]
 
 </div>
 </div>
