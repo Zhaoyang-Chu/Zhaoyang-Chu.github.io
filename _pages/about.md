@@ -71,6 +71,17 @@ Wenhan Wang, Chenyuan Yang, Zhijie Wang, Yuheng Huang, [**Zhaoyang Chu**](), Da 
 
 \* indicates equal contribution. † indicates the corresponding author.
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/TerminalWorld.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks**.<br>
+Zhaoyang Chu, Jiarui Hu\*, Xingyu Jiang\*, Pengyu Zou\*, Han Li, Chao Peng, Peter O'Hearn, Earl T. Barr, Mark Harman, Federica Sarro, He Ye†.<br>
+Preprint.<br>
+\[ [Paper](https://arxiv.org/abs/2605.22535) \] \[ [Code](https://github.com/EuniAI/TerminalWorld) \] \[ [Dataset](https://huggingface.co/datasets/EuniAI/TerminalWorld) \]
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Prometheus.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
