@@ -31,12 +31,14 @@ My academic journey has also been enriched by collaborations with [**Prof. Lingm
 I am also a co-founder of [**EuniAI**](https://euni.ai/), where we are building [**Prometheus**](https://github.com/EuniAI/Prometheus) — an open-source AI agent designed to push the boundaries of automated software development.
 -->
 
-> My research interests lie at the intersection of software engineering and artificial intelligence, with an emphasis on **reliable coding agents** for realistic software engineering workflows.
+> My research interests lie at the intersection of software engineering and artificial intelligence, with an emphasis on **reliable and safe coding agents** for real-world software engineering workflows.
 For more details about my academic background, please see my [**CV**](../assets/ZhaoyangChu_CV.pdf).
 
-🤝 **Let’s Connect**: I am always eager to connect and collaborate — whether you share my interests or bring a different perspective from another field. If you’d like to discuss research, exchange ideas, or just say hi, feel free to reach out at [zhaoyang.chu.25@ucl.ac.uk](mailto:zhaoyang.chu.25@ucl.ac.uk), [zychu418@gmail.com](mailto:zychu418@gmail.com).
+🤝 **Let’s Connect**: I am always eager to connect and collaborate, whether you share my interests or bring a different perspective from another field. If you’d like to discuss research, exchange ideas, or just say hi, feel free to reach out at [zhaoyang.chu.25@ucl.ac.uk](mailto:zhaoyang.chu.25@ucl.ac.uk), [zychu418@gmail.com](mailto:zychu418@gmail.com).
 
+<!--
 🌟🌟 **Excited to share: I will be in Rio de Janeiro, Brazil for [ICSE 2026](https://conf.researchr.org/home/icse-2026) next April—looking forward to meeting many of you there!** 🤗🤗
+-->
 
 <!--
 🌟🌟 **I will be in Vienna, Austria in September for ISSTA 2024! Hope to meet many of you there!** 🤗🤗
@@ -77,7 +79,7 @@ Wenhan Wang, Chenyuan Yang, Zhijie Wang, Yuheng Huang, [**Zhaoyang Chu**](https:
 **TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks**.<br>
 [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Jiarui Hu\*, Xingyu Jiang\*, Pengyu Zou\*, Han Li, Chao Peng, Peter O'Hearn, Earl T. Barr, Mark Harman, Federica Sarro, He Ye†.<br>
 Preprint.<br>
-\[ [Paper](https://arxiv.org/abs/2605.22535) \] \[ [Code](https://github.com/EuniAI/TerminalWorld) \] \[ [Dataset](https://huggingface.co/datasets/EuniAI/TerminalWorld) \]
+\[ [Homepage](https://terminalworld.ai/) \] \[ [Paper](https://arxiv.org/abs/2605.22535) \] \[ [Code](https://github.com/EuniAI/TerminalWorld) \] \[ [Dataset](https://huggingface.co/datasets/EuniAI/TerminalWorld) \]
 
 </div>
 </div>
