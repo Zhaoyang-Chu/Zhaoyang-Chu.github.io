@@ -34,10 +34,9 @@ I am also a co-founder of [**EuniAI**](https://euni.ai/), where we are building 
 > My research interests lie at the intersection of software engineering and artificial intelligence, with an emphasis on **reliable and safe coding agents** for real-world software engineering workflows.
 For more details about my academic background, please see my [**CV**](../assets/ZhaoyangChu_CV.pdf).
 
-🤝 **Let’s Connect**: I am always eager to connect and collaborate, whether you share my interests or bring a different perspective from another field. If you’d like to discuss research, exchange ideas, or just say hi, feel free to reach out at [zhaoyang.chu.25@ucl.ac.uk](mailto:zhaoyang.chu.25@ucl.ac.uk), [zychu418@gmail.com](mailto:zychu418@gmail.com).
+I have published 10+ papers [![Citations](https://img.shields.io/endpoint?url={{ url }}&logo=googlescholar&logoColor=white&style=for-the-badge&color=4285F4)](https://scholar.google.com/citations?user=HYu3DyEAAAAJ) at top-tier international SE and AI conferences such as ICSE, FSE, ISSTA, ACL, EMNLP, ICML, and NAACL.
 
-<a href="https://scholar.google.com/citations?user=HYu3DyEAAAAJ"><img src="https://img.shields.io/endpoint?url={{ url }}&logo=googlescholar&logoColor=white&style=flat-square&color=4078c0" alt="Google Scholar Citations"></a>
-<span id='total_cit' style='display:none'></span>
+🤝 **Let’s Connect**: I am always eager to connect and collaborate, whether you share my interests or bring a different perspective from another field. If you’d like to discuss research, exchange ideas, or just say hi, feel free to reach out at [zhaoyang.chu.25@ucl.ac.uk](mailto:zhaoyang.chu.25@ucl.ac.uk), [zychu418@gmail.com](mailto:zychu418@gmail.com).
 
 <!--
 🌟🌟 **Excited to share: I will be in Rio de Janeiro, Brazil for [ICSE 2026](https://conf.researchr.org/home/icse-2026) next April—looking forward to meeting many of you there!** 🤗🤗
@@ -82,7 +81,7 @@ Wenhan Wang, Chenyuan Yang, Zhijie Wang, Yuheng Huang, [**Zhaoyang Chu**](https:
 **TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks**.<br>
 [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Jiarui Hu\*, Xingyu Jiang\*, Pengyu Zou\*, Han Li, Chao Peng, Peter O'Hearn, Earl T. Barr, Mark Harman, Federica Sarro, He Ye†.<br>
 Preprint.<br>
-\[ [Homepage](https://terminalworld.ai/) \] \[ [Paper](https://arxiv.org/abs/2605.22535) \] \[ [Code](https://github.com/EuniAI/TerminalWorld) \] \[ [Dataset](https://huggingface.co/datasets/EuniAI/TerminalWorld) \] <span class='show_paper_citations' data='HYu3DyEAAAAJ:ufrVoPGSRksC'></span> ![GitHub stars](https://img.shields.io/github/stars/EuniAI/TerminalWorld?style=flat-square&logo=github&label=stars) ![HF downloads](https://img.shields.io/badge/dynamic/json?style=flat-square&url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FEuniAI%2FTerminalWorld%3Fexpand%3DdownloadsAllTime&query=%24.downloadsAllTime&label=%F0%9F%A4%97%20downloads&color=ff9d00)
+[![arXiv](https://img.shields.io/badge/arXiv-2605.22535-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.22535) [![GitHub](https://img.shields.io/github/stars/EuniAI/TerminalWorld?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/EuniAI/TerminalWorld) [![HuggingFace](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=huggingface&logoColor=FFD21E&url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FEuniAI%2FTerminalWorld%3Fexpand%3DdownloadsAllTime&query=%24.downloadsAllTime&label=HuggingFace&color=FFD21E)](https://huggingface.co/datasets/EuniAI/TerminalWorld) [![Website](https://img.shields.io/website?url=https://terminalworld.ai/&up_message=terminalworld.ai&up_color=blue&down_message=terminalworld.ai&down_color=blue&style=for-the-badge)](https://terminalworld.ai/) [![Citations](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=googlescholar&logoColor=white&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhaoyang-Chu%2FZhaoyang-Chu.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27HYu3DyEAAAAJ%3AufrVoPGSRksC%27%5D.num_citations&label=Citations&color=4285F4)](https://scholar.google.com/citations?user=HYu3DyEAAAAJ)
 
 </div>
 </div>
@@ -94,7 +93,7 @@ Preprint.<br>
 **Prometheus: Towards Long-Horizon Codebase Navigation for Repository-Level Problem Solving**.<br>
 Yue Pan\*, Zimin Chen\*, Siyu Lu, [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Xiang Li, Han Li, Yang Feng, Claire Le Goues, Federica Sarro, Martin Monperrus, He Ye†.<br>
 Preprint.<br>
-\[ [Paper](https://arxiv.org/abs/2507.19942) \] \[ [Code](https://github.com/EuniAI/Prometheus) \] <span class='show_paper_citations' data='HYu3DyEAAAAJ:W7OEmFMy1HYC'></span> ![GitHub stars](https://img.shields.io/github/stars/EuniAI/Prometheus?style=flat-square&logo=github&label=stars)
+[![arXiv](https://img.shields.io/badge/arXiv-2507.19942-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2507.19942) [![GitHub](https://img.shields.io/github/stars/EuniAI/Prometheus?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/EuniAI/Prometheus) [![Citations](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=googlescholar&logoColor=white&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhaoyang-Chu%2FZhaoyang-Chu.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27HYu3DyEAAAAJ%3AW7OEmFMy1HYC%27%5D.num_citations&label=Citations&color=4285F4)](https://scholar.google.com/citations?user=HYu3DyEAAAAJ)
 
 </div>
 </div>
@@ -106,7 +105,7 @@ Preprint.<br>
 **ContextBench: A Benchmark for Context Retrieval in Coding Agents**.<br>
 Han Li, Letian Zhu\*, Bohan Zhang\*, Rili Feng\*, Jiaming Wang, Yue Pan, Earl T. Barr, Federica Sarro, [**Zhaoyang Chu†**](), He Ye†.<br>
 Preprint.<br>
-\[ [Homepage](https://contextbench.github.io/) \] \[ [Paper](https://arxiv.org/abs/2602.05892) \] \[ [Code](https://github.com/EuniAI/ContextBench) \] \[ [Dataset](https://huggingface.co/datasets/Contextbench/ContextBench) \] <span class='show_paper_citations' data='HYu3DyEAAAAJ:Y0pCki6q_DkC'></span> ![GitHub stars](https://img.shields.io/github/stars/EuniAI/ContextBench?style=flat-square&logo=github&label=stars) ![HF downloads](https://img.shields.io/badge/dynamic/json?style=flat-square&url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FContextbench%2FContextBench%3Fexpand%3DdownloadsAllTime&query=%24.downloadsAllTime&label=%F0%9F%A4%97%20downloads&color=ff9d00) 
+[![arXiv](https://img.shields.io/badge/arXiv-2602.05892-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2602.05892) [![GitHub](https://img.shields.io/github/stars/EuniAI/ContextBench?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/EuniAI/ContextBench) [![HuggingFace](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=huggingface&logoColor=FFD21E&url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FContextbench%2FContextBench%3Fexpand%3DdownloadsAllTime&query=%24.downloadsAllTime&label=HuggingFace&color=FFD21E)](https://huggingface.co/datasets/Contextbench/ContextBench) [![Website](https://img.shields.io/website?url=https://contextbench.github.io/&up_message=contextbench.github.io&up_color=blue&down_message=contextbench.github.io&down_color=blue&style=for-the-badge)](https://contextbench.github.io/) [![Citations](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=googlescholar&logoColor=white&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhaoyang-Chu%2FZhaoyang-Chu.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27HYu3DyEAAAAJ%3AY0pCki6q_DkC%27%5D.num_citations&label=Citations&color=4285F4)](https://scholar.google.com/citations?user=HYu3DyEAAAAJ)
 
 </div>
 </div>
@@ -119,7 +118,7 @@ Preprint.<br>
 **Scrub It Out! Erasing Sensitive Memorization in Code Language Models via Machine Unlearning**.<br>
 [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Yao Wan†, Zhikun Zhang, Di Wang, Zhou Yang, Hongyu Zhang, Pan Zhou, Xuanhua Shi, Hai Jin, David Lo.<br>
 [**ICSE 2026**](https://conf.researchr.org/home/icse-2026). *The 48th IEEE/ACM International Conference on Software Engineering*.<br>
-\[ [Paper](https://arxiv.org/abs/2509.13755) \] \[ [Code](https://github.com/Zhaoyang-Chu/code-unlearning) \] <span class='show_paper_citations' data='HYu3DyEAAAAJ:zYLM7Y9cAGgC'></span> ![GitHub stars](https://img.shields.io/github/stars/Zhaoyang-Chu/code-unlearning?style=flat-square&logo=github&label=stars) 
+[![arXiv](https://img.shields.io/badge/arXiv-2509.13755-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.13755) [![GitHub](https://img.shields.io/github/stars/Zhaoyang-Chu/code-unlearning?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/Zhaoyang-Chu/code-unlearning) [![Citations](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=googlescholar&logoColor=white&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhaoyang-Chu%2FZhaoyang-Chu.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27HYu3DyEAAAAJ%3AzYLM7Y9cAGgC%27%5D.num_citations&label=Citations&color=4285F4)](https://scholar.google.com/citations?user=HYu3DyEAAAAJ)
 
 </div>
 </div>
@@ -143,7 +142,7 @@ Guanghua Wan, Yuanning Feng, Yao Wan†, [**Zhaoyang Chu**](https://zhaoyang-chu
 **ExecVerify: White-Box RL with Verifiable Stepwise Rewards for Code Execution Reasoning**.<br>
 Lingxiao Tang, He Ye, [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Muyang Ye, Zhongxin Liu, Xiaoxue Ren, Lingfeng Bao†.<br>
 [**ACL 2026**](https://2026.aclweb.org/). *The 64th Annual Meeting of the Association for Computational Linguistics*.<br>
-\[ [Paper](https://arxiv.org/abs/2603.11226) \] \[ [Code](https://github.com/tlx000000001/ExecVerify) \] <span class='show_paper_citations' data='HYu3DyEAAAAJ:YsMSGLbcyi4C'></span> ![GitHub stars](https://img.shields.io/github/stars/tlx000000001/ExecVerify?style=flat-square&logo=github&label=stars)
+[![arXiv](https://img.shields.io/badge/arXiv-2603.11226-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.11226) [![GitHub](https://img.shields.io/github/stars/tlx000000001/ExecVerify?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/tlx000000001/ExecVerify) [![Citations](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=googlescholar&logoColor=white&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhaoyang-Chu%2FZhaoyang-Chu.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27HYu3DyEAAAAJ%3AYsMSGLbcyi4C%27%5D.num_citations&label=Citations&color=4285F4)](https://scholar.google.com/citations?user=HYu3DyEAAAAJ)
 
 </div>
 </div>
@@ -155,7 +154,7 @@ Lingxiao Tang, He Ye, [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Muyan
 **Bridging Code Graphs and Large Language Models for Better Code Understanding**.<br>
 Zeqi Chen, [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Yi Gui, Feng Guo, Yao Wan, Chuan Shi†.<br>
 [**ACL 2026 Findings**](https://2026.aclweb.org/). *The 64th Annual Meeting of the Association for Computational Linguistics*.<br>
-\[ [Paper](https://arxiv.org/abs/2512.07666) \] \[ [Code](https://github.com/OmniJax/CGBridge) \] <span class='show_paper_citations' data='HYu3DyEAAAAJ:Tyk-4Ss8FVUC'></span> ![GitHub stars](https://img.shields.io/github/stars/OmniJax/CGBridge?style=flat-square&logo=github&label=stars)
+[![arXiv](https://img.shields.io/badge/arXiv-2512.07666-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.07666) [![GitHub](https://img.shields.io/github/stars/OmniJax/CGBridge?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/OmniJax/CGBridge) [![Citations](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=googlescholar&logoColor=white&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhaoyang-Chu%2FZhaoyang-Chu.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27HYu3DyEAAAAJ%3ATyk-4Ss8FVUC%27%5D.num_citations&label=Citations&color=4285F4)](https://scholar.google.com/citations?user=HYu3DyEAAAAJ)
 
 </div>
 </div>
@@ -166,7 +165,7 @@ Zeqi Chen, [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Yi Gui, Feng Guo
 **CODESYNC: Synchronizing Large Language Models with Dynamic Code Evolution at Scale**.<br>
 Chenlong Wang\*, [**Zhaoyang Chu\***](), Zhengxiang Cheng\*, Xuyi Yang, Kaiyue Qiu, Yao Wan†, Zhou Zhao, Xuanhua Shi, Dongping Chen.<br>
 [**ICML 2025**](https://icml.cc/Conferences/2025). *The 42nd International Conference on Machine Learning*.<br>
-\[ [Paper](https://arxiv.org/abs/2502.16645) \] \[ [Code](https://github.com/Lucky-Wang-Chenlong/CodeSync) \] <span class='show_paper_citations' data='HYu3DyEAAAAJ:qjMakFHDy7sC'></span> ![GitHub stars](https://img.shields.io/github/stars/Lucky-Wang-Chenlong/CodeSync?style=flat-square&logo=github&label=stars) 
+[![arXiv](https://img.shields.io/badge/arXiv-2502.16645-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2502.16645) [![GitHub](https://img.shields.io/github/stars/Lucky-Wang-Chenlong/CodeSync?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/Lucky-Wang-Chenlong/CodeSync) [![Citations](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=googlescholar&logoColor=white&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhaoyang-Chu%2FZhaoyang-Chu.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27HYu3DyEAAAAJ%3AqjMakFHDy7sC%27%5D.num_citations&label=Citations&color=4285F4)](https://scholar.google.com/citations?user=HYu3DyEAAAAJ)
 
 </div>
 </div>
@@ -179,7 +178,7 @@ Chenlong Wang\*, [**Zhaoyang Chu\***](), Zhengxiang Cheng\*, Xuyi Yang, Kaiyue Q
 Zhangqian Bi, Yao Wan†, [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Yufei Hu, Junyi Zhang, Hongyu Zhang, Guandong Xu, Hai Jin.<br>
 [**SANER 2025**](https://conf.researchr.org/home/saner-2025). *The 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering*.<br>
 **IEEE TCSE Distinguished Paper Award🏆**.<br>
-\[ [Paper](https://arxiv.org/abs/2501.03783) \] \[ [Code](https://github.com/CGCL-codes/naturalcc/tree/main/examples/pcm-reuse) \] <span class='show_paper_citations' data='HYu3DyEAAAAJ:2osOgNQ5qMEC'></span> ![GitHub stars](https://img.shields.io/github/stars/CGCL-codes/naturalcc?style=flat-square&logo=github&label=stars) 
+[![arXiv](https://img.shields.io/badge/arXiv-2501.03783-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2501.03783) [![GitHub](https://img.shields.io/github/stars/CGCL-codes/naturalcc?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/CGCL-codes/naturalcc/tree/main/examples/pcm-reuse) [![Citations](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=googlescholar&logoColor=white&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhaoyang-Chu%2FZhaoyang-Chu.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27HYu3DyEAAAAJ%3A2osOgNQ5qMEC%27%5D.num_citations&label=Citations&color=4285F4)](https://scholar.google.com/citations?user=HYu3DyEAAAAJ)
 
 </div>
 </div>
@@ -191,7 +190,7 @@ Zhangqian Bi, Yao Wan†, [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Y
 **Can Large Language Models Serve as Evaluators for Code Summarization?** <br>
 Yang Wu, Yao Wan†, [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Wenting Zhao, Ye Liu, Hongyu Zhang, Xuanhua Shi, Philip S. Yu.<br>
 [**IEEE Transactions on Software Engineering (TSE)**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32), 2025.<br>
-\[ [Paper](https://arxiv.org/abs/2412.01333) \] \[ [Code](https://github.com/CGCL-codes/naturalcc/tree/main/examples/CodeSum-Eval) \] <span class='show_paper_citations' data='HYu3DyEAAAAJ:9yKSN-GCB0IC'></span> ![GitHub stars](https://img.shields.io/github/stars/CGCL-codes/naturalcc?style=flat-square&logo=github&label=stars) 
+[![arXiv](https://img.shields.io/badge/arXiv-2412.01333-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2412.01333) [![GitHub](https://img.shields.io/github/stars/CGCL-codes/naturalcc?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/CGCL-codes/naturalcc/tree/main/examples/CodeSum-Eval) [![Citations](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=googlescholar&logoColor=white&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhaoyang-Chu%2FZhaoyang-Chu.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27HYu3DyEAAAAJ%3A9yKSN-GCB0IC%27%5D.num_citations&label=Citations&color=4285F4)](https://scholar.google.com/citations?user=HYu3DyEAAAAJ)
 
 </div>
 </div>
@@ -203,7 +202,7 @@ Yang Wu, Yao Wan†, [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Wentin
 **Wait, We Don't Need to "Wait"! Removing Thinking Tokens Improves Reasoning Efficiency**.<br>
 Chenlong Wang, Yuanning Feng, Dongping Chen, [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Ranjay Krishna†, Tianyi Zhou†.<br>
 [**EMNLP 2025 Findings**](https://2025.emnlp.org). *The 2025 Conference on Empirical Methods in Natural Language Processing*.<br>
-\[ [Paper](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.394.pdf) \] <span class='show_paper_citations' data='HYu3DyEAAAAJ:IjCSPb-OGe4C'></span>
+[![arXiv](https://img.shields.io/badge/arXiv-2506.08343-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.08343) [![Citations](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=googlescholar&logoColor=white&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhaoyang-Chu%2FZhaoyang-Chu.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27HYu3DyEAAAAJ%3AIjCSPb-OGe4C%27%5D.num_citations&label=Citations&color=4285F4)](https://scholar.google.com/citations?user=HYu3DyEAAAAJ)
 
 </div>
 </div>
@@ -215,7 +214,7 @@ Chenlong Wang, Yuanning Feng, Dongping Chen, [**Zhaoyang Chu**](https://zhaoyang
 **TESTEVAL: Benchmarking Large Language Models for Test Case Generation**.<br>
 Wenhan Wang\*, Chenyuan Yang\*, Zhijie Wang\*, Yuheng Huang, [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Da Song, Lingming Zhang, An Ran Chen, Lei Ma.<br>
 [**NAACL 2025 Findings**](https://2025.naacl.org). *The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics*.<br>
-\[ [Homepage](https://llm4softwaretesting.github.io/) \] \[ [Paper](https://arxiv.org/abs/2406.04531) \] \[ [Code](https://github.com/LLM4SoftwareTesting/TestEval) \] <span class='show_paper_citations' data='HYu3DyEAAAAJ:d1gkVwhDpl0C'></span> ![GitHub stars](https://img.shields.io/github/stars/LLM4SoftwareTesting/TestEval?style=flat-square&logo=github&label=stars)
+[![arXiv](https://img.shields.io/badge/arXiv-2406.04531-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2406.04531) [![GitHub](https://img.shields.io/github/stars/LLM4SoftwareTesting/TestEval?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/LLM4SoftwareTesting/TestEval) [![Website](https://img.shields.io/website?url=https://llm4softwaretesting.github.io/&up_message=llm4softwaretesting.github.io&up_color=blue&down_message=llm4softwaretesting.github.io&down_color=blue&style=for-the-badge)](https://llm4softwaretesting.github.io/) [![Citations](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=googlescholar&logoColor=white&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhaoyang-Chu%2FZhaoyang-Chu.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27HYu3DyEAAAAJ%3Ad1gkVwhDpl0C%27%5D.num_citations&label=Citations&color=4285F4)](https://scholar.google.com/citations?user=HYu3DyEAAAAJ)
 
 </div>
 </div>
@@ -227,7 +226,7 @@ Wenhan Wang\*, Chenyuan Yang\*, Zhijie Wang\*, Yuheng Huang, [**Zhaoyang Chu**](
 **Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation**.<br>
 [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Yao Wan†, Qian Li, Yang Wu, Hongyu Zhang, Yulei Sui, Guandong Xu, Hai Jin.<br>
 [**ISSTA 2024**](https://2024.issta.org). *The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis*.<br>
-\[ [Paper](https://arxiv.org/abs/2404.15687) \] \[ [Code](https://github.com/Zhaoyang-Chu/counterfactual-vulnerability-detection) \] <span class='show_paper_citations' data='HYu3DyEAAAAJ:u-x6o8ySG0sC'></span> ![GitHub stars](https://img.shields.io/github/stars/Zhaoyang-Chu/counterfactual-vulnerability-detection?style=flat-square&logo=github&label=stars) 
+[![arXiv](https://img.shields.io/badge/arXiv-2404.15687-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2404.15687) [![GitHub](https://img.shields.io/github/stars/Zhaoyang-Chu/counterfactual-vulnerability-detection?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/Zhaoyang-Chu/counterfactual-vulnerability-detection) [![Citations](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=googlescholar&logoColor=white&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhaoyang-Chu%2FZhaoyang-Chu.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27HYu3DyEAAAAJ%3Au-x6o8ySG0sC%27%5D.num_citations&label=Citations&color=4285F4)](https://scholar.google.com/citations?user=HYu3DyEAAAAJ)
 
 </div>
 </div>
