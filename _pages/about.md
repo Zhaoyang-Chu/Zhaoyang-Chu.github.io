@@ -31,7 +31,7 @@ My academic journey has also been enriched by collaborations with [**Prof. Lingm
 I am also a co-founder of [**EuniAI**](https://euni.ai/), where we are building [**Prometheus**](https://github.com/EuniAI/Prometheus) — an open-source AI agent designed to push the boundaries of automated software development.
 -->
 
-> My research interests lie at the intersection of software engineering and artificial intelligence, with an emphasis on **reliable and safe coding agents** for real-world software engineering workflows.
+> My research interests lie at the intersection of software engineering and artificial intelligence, with an emphasis on **safe and reliable coding agents** for real-world software engineering workflows.
 I have published 10+ papers <a href="https://scholar.google.com/citations?user=HYu3DyEAAAAJ"><img src="https://img.shields.io/endpoint?url={{ url }}&logo=googlescholar&logoColor=white&style=for-the-badge&color=4285F4" alt="Citations" style="vertical-align:middle;height:24px!important;width:auto"></a> at top-tier international SE and AI conferences such as ICSE, FSE, ISSTA, ACL, EMNLP, ICML, and NAACL.
 For more details about my academic background, please see my [**CV**](../assets/ZhaoyangChu_CV.pdf).
 
@@ -49,6 +49,8 @@ For more details about my academic background, please see my [**CV**](../assets/
 
 # 🔥 News
 
+- *2025.06*: &nbsp;🎙️ TerminalWorld was featured on [**Last Week in AI**](https://lastweekin.ai/p/lwiai-podcast-246-gemini-35-omni) (ep. #246), a newsletter and podcast with 181k+ listeners.
+- *2025.05*: &nbsp;🤗 TerminalWorld dataset exceeded **5,000 downloads** on HuggingFace!
 - *2026.04*: &nbsp;🎉 Our two post-training papers on *code execution reasoning* and *structure-aware code understanding* was accepted to **ACL 2026**.
 - *2026.03*: &nbsp;🎉 Our paper on *LLM hallucination mitigation in code summarization* was accepted to **FSE 2026**.
 - *2025.08*: &nbsp;🎉 Our work on *efficient reasoning for R1-style LLMs* was accepted to **EMNLP 2025**.
