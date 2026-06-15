@@ -32,9 +32,8 @@ I am also a co-founder of [**EuniAI**](https://euni.ai/), where we are building 
 -->
 
 > My research interests lie at the intersection of software engineering and artificial intelligence, with an emphasis on **reliable and safe coding agents** for real-world software engineering workflows.
+I have published 10+ papers <a href="https://scholar.google.com/citations?user=HYu3DyEAAAAJ"><img src="https://img.shields.io/endpoint?url={{ url }}&logo=googlescholar&logoColor=white&style=for-the-badge&color=4285F4" height="20" alt="Citations" style="vertical-align:middle"></a> at top-tier international SE and AI conferences such as ICSE, FSE, ISSTA, ACL, EMNLP, ICML, and NAACL.
 For more details about my academic background, please see my [**CV**](../assets/ZhaoyangChu_CV.pdf).
-
-I have published 10+ papers [![Citations](https://img.shields.io/endpoint?url={{ url }}&logo=googlescholar&logoColor=white&style=for-the-badge&color=4285F4)](https://scholar.google.com/citations?user=HYu3DyEAAAAJ) at top-tier international SE and AI conferences such as ICSE, FSE, ISSTA, ACL, EMNLP, ICML, and NAACL.
 
 🤝 **Let’s Connect**: I am always eager to connect and collaborate, whether you share my interests or bring a different perspective from another field. If you’d like to discuss research, exchange ideas, or just say hi, feel free to reach out at [zhaoyang.chu.25@ucl.ac.uk](mailto:zhaoyang.chu.25@ucl.ac.uk), [zychu418@gmail.com](mailto:zychu418@gmail.com).
 
