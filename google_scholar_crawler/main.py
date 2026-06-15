@@ -6,6 +6,15 @@ import os
 
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
+
+# Guard against "soft failures": Google Scholar sometimes throttles without raising,
+# returning an author with citedby=0 or no publications. Writing that would overwrite
+# the good data on the google-scholar-stats branch. Exit non-zero instead so the
+# workflow skips the push and the last successful data is retained.
+if not author.get('citedby') or not author.get('publications'):
+    raise SystemExit('Scholar returned incomplete data (likely rate-limited); '
+                     'keeping the last successful data on the branch.')
+
 name = author['name']
 author['updated'] = str(datetime.now())
 author['publications'] = {v['author_pub_id']:v for v in author['publications']}
