@@ -132,6 +132,7 @@ Preprint.<br>
 **Hallucinations in LLM-based Code Summarization: Unveiling, Detection, and Mitigation**.<br>
 Guanghua Wan, Yuanning Feng, Yao Wan†, [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Zhangqian Bi, Junxiao Han, Zhou Zhao, Hongyu Zhang, Pingpeng Yuan, Xuanhua Shi, Hai Jin.<br>
 [**FSE 2026**](https://conf.researchr.org/home/fse-2026). *The ACM International Conference on the Foundations of Software Engineering*.<br>
+<a href="https://dl.acm.org/doi/10.1145/3808139"><img src="https://img.shields.io/badge/Paper-ACM%20DL-1576D3?style=for-the-badge&logo=acm&logoColor=white" alt="Paper" style="vertical-align:middle;height:24px!important;width:auto"></a> <a href="https://github.com/CGCL-codes/naturalcc/tree/main/examples/code-summarization-hallucination"><img src="https://img.shields.io/github/stars/CGCL-codes/naturalcc?style=for-the-badge&logo=github&label=GitHub&color=black" alt="GitHub" style="vertical-align:middle;height:24px!important;width:auto"></a>
 
 </div>
 </div>
