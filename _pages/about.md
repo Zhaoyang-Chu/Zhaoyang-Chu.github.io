@@ -49,8 +49,10 @@ For more details about my academic background, please see my [**CV**](../assets/
 
 # 🔥 News
 
-- *2025.06*: &nbsp;🎙️ TerminalWorld was featured on [**Last Week in AI**](https://lastweekin.ai/p/lwiai-podcast-246-gemini-35-omni) (ep. #246), a newsletter and podcast with 181k+ listeners.
-- *2025.05*: &nbsp;🤗 TerminalWorld dataset exceeded **5,000 downloads** on HuggingFace!
+- *2026.09*: &nbsp;🎉 TerminalWorld was accepted to **NeurIPS 2026**.
+- *2026.08*: &nbsp;🤗 TerminalWorld dataset exceeded **20k downloads** on HuggingFace!
+- *2026.06*: &nbsp;🎙️ TerminalWorld was featured on [**Last Week in AI**](https://lastweekin.ai/p/lwiai-podcast-246-gemini-35-omni) (ep. #246), a newsletter and podcast with 181k+ listeners.
+- *2026.05*: &nbsp;🤗 TerminalWorld dataset exceeded **5,000 downloads** on HuggingFace!
 - *2026.04*: &nbsp;🎉 Our two post-training papers on *code execution reasoning* and *structure-aware code understanding* was accepted to **ACL 2026**.
 - *2026.03*: &nbsp;🎉 Our paper on *LLM hallucination mitigation in code summarization* was accepted to **FSE 2026**.
 - *2025.08*: &nbsp;🎉 Our work on *efficient reasoning for R1-style LLMs* was accepted to **EMNLP 2025**.
