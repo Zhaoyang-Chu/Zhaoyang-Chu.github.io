@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year PhD student in the Department of Computer Science at [**University College London (UCL)**](https://www.ucl.ac.uk/), where I am fortunate to be co-supervised by [**Prof. Federica Sarro**](http://www0.cs.ucl.ac.uk/staff/F.Sarro/) and [**Dr. He Ye**](https://heye.me/).
+I am a second-year PhD student in the Department of Computer Science at [**University College London (UCL)**](https://www.ucl.ac.uk/), where I am fortunate to be co-supervised by [**Dr. He Ye**](https://heye.me/) and [**Prof. Federica Sarro**](http://www0.cs.ucl.ac.uk/staff/F.Sarro/).
 Previously, I completed my master's degree at the School of Computer Science and Technology, [**Huazhong University of Science and Technology (HUST)**](https://www.hust.edu.cn), advised by [**Prof. Yao Wan**](http://wanyao.me).
 My academic journey has also been enriched by collaborations with [**Prof. Lingming Zhang**](https://lingming.cs.illinois.edu/) at UIUC and [**Prof. Hongyu Zhang**](https://sites.google.com/site/hongyujohn/) at Chongqing University.
 
@@ -84,13 +84,13 @@ Wenhan Wang, Chenyuan Yang, Zhijie Wang, Yuheng Huang, [**Zhaoyang Chu**](https:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><!-- TODO: replace placeholder with the paper figure --><img src='images/placeholder.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/OpenRUA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **OpenRUA: Robot-Use Agents Are Zero-Shot Visuomotor Policies**.<br>
 [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Earl T. Barr, Claire Le Goues, Peter O'Hearn, Mark Harman, Federica Sarro, He Ye†.<br>
 Preprint.<br>
-<a href="https://arxiv.org/abs/2610.02459"><img src="https://img.shields.io/badge/arXiv-2610.02459-A42C25?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv" style="vertical-align:middle;height:24px!important;width:auto"></a> <a href="https://github.com/terminalworld/OpenRUA"><img src="https://img.shields.io/github/stars/terminalworld/OpenRUA?style=for-the-badge&logo=github&label=GitHub&color=black" alt="GitHub" style="vertical-align:middle;height:24px!important;width:auto"></a>
+<a href="https://arxiv.org/abs/2610.02459"><img src="https://img.shields.io/badge/arXiv-2610.02459-A42C25?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv" style="vertical-align:middle;height:24px!important;width:auto"></a> <a href="https://github.com/terminalworld/OpenRUA"><img src="https://img.shields.io/github/stars/terminalworld/OpenRUA?style=for-the-badge&logo=github&label=GitHub&color=black" alt="GitHub" style="vertical-align:middle;height:24px!important;width:auto"></a> <a href="https://scholar.google.com/citations?user=HYu3DyEAAAAJ"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=googlescholar&logoColor=white&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhaoyang-Chu%2FZhaoyang-Chu.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27HYu3DyEAAAAJ%3AhqOjcs7Dif8C%27%5D.num_citations&label=Citations&color=4285F4" alt="Citations" style="vertical-align:middle;height:24px!important;width:auto"></a>
 
 </div>
 </div>
@@ -121,7 +121,7 @@ Preprint.<br>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><!-- TODO: replace placeholder with the paper figure --><img src='images/placeholder.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/FixAudit.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **An Iterative Test-and-Repair Framework for Competitive Code Generation**.<br>
