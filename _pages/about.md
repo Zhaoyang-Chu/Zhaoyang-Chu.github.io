@@ -43,20 +43,28 @@ For more details about my academic background, please see my [**CV**](../assets/
 
 # 🔥 News
 
-- *2026.09*: &nbsp;🎉 TerminalWorld was accepted to **NeurIPS 2026**.
-- *2026.08*: &nbsp;🤗 TerminalWorld dataset exceeded **20k downloads** on HuggingFace!
+- *2026.10*: &nbsp;🚀 Released **[OpenRUA](https://arxiv.org/abs/2610.02459)**: with only terminal access to a robot's native ROS 2 interface, an off-the-shelf coding agent serves as a zero-shot visuomotor policy (99.0% success on CaP-Bench), with no bespoke primitives or task-specific training.
+- *2026.09*: &nbsp;🎉 **[TerminalWorld](https://arxiv.org/abs/2605.22535)**, a benchmark of 1,530 real-world terminal tasks reverse-engineered from in-the-wild terminal recordings, was accepted to **NeurIPS 2026**.
+- *2026.08*: &nbsp;🤗 The [TerminalWorld dataset](https://huggingface.co/datasets/EuniAI/TerminalWorld) exceeded **20k downloads** on Hugging Face!
 - *2026.06*: &nbsp;🎙️ TerminalWorld was featured on [**Last Week in AI**](https://lastweekin.ai/p/lwiai-podcast-246-gemini-35-omni) (ep. #246), a newsletter and podcast with 181k+ listeners.
-- *2026.05*: &nbsp;🤗 TerminalWorld dataset exceeded **5,000 downloads** on HuggingFace!
-- *2026.04*: &nbsp;🎉 Our two post-training papers on *code execution reasoning* and *structure-aware code understanding* was accepted to **ACL 2026**.
-- *2026.03*: &nbsp;🎉 Our paper on *LLM hallucination mitigation in code summarization* was accepted to **FSE 2026**.
-- *2025.08*: &nbsp;🎉 Our work on *efficient reasoning for R1-style LLMs* was accepted to **EMNLP 2025**.
-- *2025.07*: &nbsp;🎉 Our work on *LLM-as-a-Judge for code summarization* was accepted by **IEEE Transactions on Software Engineering**.
-- *2025.06*: &nbsp;🎉 Our paper on *machine unlearning for code LLMs* was accepted to **ICSE 2026**.
-- *2025.05*: &nbsp;🎉 Our research on *dynamic code knowledge synchronization for LLMs* was accepted to **ICML 2025**.
-- *2025.03*: &nbsp;🎉 Our SANER 2025 paper received the **IEEE TCSE Distinguished Paper Award🏆**!
-- *2025.01*: &nbsp;🎉 Our work on *test generation benchmark for LLMs* was accepted to **NAACL 2025**.
-- *2024.12*: &nbsp;🎉 Our study on *pre-trained code model selection for reuse* was accepted to **SANER 2025**.
-- *2024.03*: &nbsp;🎉 Our research on *counterfactual reasoning for GNN-based vulnerability detectio* was accepted to **ISSTA 2024**.
+- *2026.05*: &nbsp;🤗 The [TerminalWorld dataset](https://huggingface.co/datasets/EuniAI/TerminalWorld) exceeded **5,000 downloads** on Hugging Face!
+- *2026.04*: &nbsp;🎉 Two papers were accepted to **ACL 2026**: **[ExecVerify](https://arxiv.org/abs/2603.11226)** (reinforcement learning with verifiable stepwise rewards for code execution reasoning) and **[CGBridge](https://aclanthology.org/2026.findings-acl.434/)** (a plug-and-play bridge that brings code-graph structure into LLMs; Findings).
+- *2026.03*: &nbsp;🎉 [Our paper](https://dl.acm.org/doi/10.1145/3808139) on unveiling, detecting, and mitigating hallucinations in LLM-based code summarization was accepted to **FSE 2026**.
+- *2025.09*: &nbsp;🎓 Started my PhD at **UCL**, co-supervised by [Dr. He Ye](https://heye.me/) and [Prof. Federica Sarro](http://www0.cs.ucl.ac.uk/staff/F.Sarro/).
+
+<details markdown="1">
+<summary style="cursor:pointer; color:#888; font-size:0.9em;">Show older news</summary>
+
+- *2025.08*: &nbsp;🎉 **[NoWait](https://arxiv.org/abs/2506.08343)**, which suppresses "Wait"-style self-reflection tokens to shorten R1-style reasoning by up to 27%–51% without hurting utility, was accepted to **EMNLP 2025** Findings.
+- *2025.07*: &nbsp;🎉 **[CODERPE](https://arxiv.org/abs/2412.01333)**, which uses role-player prompting to let LLMs evaluate code summaries, was accepted by **IEEE Transactions on Software Engineering (TSE)**.
+- *2025.06*: &nbsp;🎉 **[CodeEraser](https://arxiv.org/abs/2509.13755)**, which erases sensitive memorization from code language models via machine unlearning, was accepted to **ICSE 2026**.
+- *2025.05*: &nbsp;🎉 **[CODESYNC](https://arxiv.org/abs/2502.16645)**, a data engine and benchmark for keeping LLMs in sync with evolving third-party library APIs, was accepted to **ICML 2025**.
+- *2025.03*: &nbsp;🏆 [Our SANER 2025 paper](https://arxiv.org/abs/2501.03783) received the **IEEE TCSE Distinguished Paper Award**!
+- *2025.01*: &nbsp;🎉 **[TESTEVAL](https://arxiv.org/abs/2406.04531)**, a benchmark for test case generation with LLMs, was accepted to **NAACL 2025** Findings.
+- *2024.12*: &nbsp;🎉 [Our study](https://arxiv.org/abs/2501.03783) on learning-based selection of pre-trained code models for reuse was accepted to **SANER 2025**.
+- *2024.03*: &nbsp;🎉 **[CFExplainer](https://arxiv.org/abs/2404.15687)**, a counterfactual explainer for GNN-based vulnerability detection, was accepted to **ISSTA 2024**.
+
+</details>
 
 <!--
 - *2022.09*: &nbsp;🎉 One paper was published in **Information Sciences**.
