@@ -17,12 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-_**How to say my name?**<br>
-You can just say it as “Jao-young Choo”.<br>
-😊 No stress about precision — I’m happy with any close version._
-
----
-
 I am a first-year PhD student in the Department of Computer Science at [**University College London (UCL)**](https://www.ucl.ac.uk/), where I am fortunate to be co-supervised by [**Prof. Federica Sarro**](http://www0.cs.ucl.ac.uk/staff/F.Sarro/) and [**Dr. He Ye**](https://heye.me/).
 Previously, I completed my master's degree at the School of Computer Science and Technology, [**Huazhong University of Science and Technology (HUST)**](https://www.hust.edu.cn), advised by [**Prof. Yao Wan**](http://wanyao.me).
 My academic journey has also been enriched by collaborations with [**Prof. Lingming Zhang**](https://lingming.cs.illinois.edu/) at UIUC and [**Prof. Hongyu Zhang**](https://sites.google.com/site/hongyujohn/) at Chongqing University.
@@ -78,12 +72,12 @@ Wenhan Wang, Chenyuan Yang, Zhijie Wang, Yuheng Huang, [**Zhaoyang Chu**](https:
 
 \* indicates equal contribution. † indicates the corresponding author.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/TerminalWorld.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/TerminalWorld.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks**.<br>
 [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Jiarui Hu\*, Xingyu Jiang\*, Pengyu Zou\*, Han Li, Chao Peng, Peter O'Hearn, Earl T. Barr, Mark Harman, Federica Sarro, He Ye†.<br>
-Preprint.<br>
+[**NeurIPS 2026**](https://neurips.cc/Conferences/2026). *The 40th Annual Conference on Neural Information Processing Systems*.<br>
 <a href="https://arxiv.org/abs/2605.22535"><img src="https://img.shields.io/badge/arXiv-2605.22535-A42C25?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv" style="vertical-align:middle;height:24px!important;width:auto"></a> <a href="https://github.com/EuniAI/TerminalWorld"><img src="https://img.shields.io/github/stars/EuniAI/TerminalWorld?style=for-the-badge&logo=github&label=GitHub&color=black" alt="GitHub" style="vertical-align:middle;height:24px!important;width:auto"></a> <a href="https://huggingface.co/datasets/EuniAI/TerminalWorld"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=huggingface&logoColor=FFD21E&url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FEuniAI%2FTerminalWorld%3Fexpand%3DdownloadsAllTime&query=%24.downloadsAllTime&label=HuggingFace&color=FFD21E" alt="HuggingFace" style="vertical-align:middle;height:24px!important;width:auto"></a> <a href="https://terminalworld.ai/"><img src="https://img.shields.io/website?url=https://terminalworld.ai/&up_message=terminalworld.ai&up_color=blue&down_message=terminalworld.ai&down_color=blue&style=for-the-badge" alt="Website" style="vertical-align:middle;height:24px!important;width:auto"></a> <a href="https://scholar.google.com/citations?user=HYu3DyEAAAAJ"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=googlescholar&logoColor=white&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhaoyang-Chu%2FZhaoyang-Chu.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27HYu3DyEAAAAJ%3AufrVoPGSRksC%27%5D.num_citations&label=Citations&color=4285F4" alt="Citations" style="vertical-align:middle;height:24px!important;width:auto"></a>
 
 </div>
