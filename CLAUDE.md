@@ -64,6 +64,8 @@ Author A, [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Author C†.<br>
 ## Conventions
 
 - **Dates** use `*YYYY.MM*` format in News and Educations.
+- **Only papers with a public arXiv/official version go on the homepage**; unpublished submissions stay off. Never write "Under Review" here — a public-but-unaccepted paper is badged `Preprint`.
+- New papers without a figure yet use `images/placeholder.svg` with a `<!-- TODO -->` comment; replace before merging.
 - Commented-out `<!-- ... -->` paper-box / news blocks are intentionally parked (old preprints, hidden papers) — leave them unless asked.
 - Don't hand-edit citation counts; the GitHub Action regenerates them on the `google-scholar-stats` branch weekly (Mon 08:00 UTC), on any Pages build, or via manual `workflow_dispatch`. Note: `scholarly` scrapes from a shared GitHub Actions IP that Google Scholar rate-limits, so individual runs fail intermittently — a missed week is normal and self-heals on the next successful run; the failed run won't overwrite good data (the step exits before pushing).
 
