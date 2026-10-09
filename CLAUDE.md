@@ -59,7 +59,11 @@ Author A, [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Author C†.<br>
      - Stars (one per GitHub repo): `![GitHub stars](https://img.shields.io/github/stars/OWNER/REPO?style=flat-square&logo=github&label=stars)`
      - HF downloads (one per HF dataset, shows **all-time** downloads): `![HF downloads](https://img.shields.io/badge/dynamic/json?style=flat-square&url=ENCODED_HF_API_URL&query=%24.downloadsAllTime&label=%F0%9F%A4%97%20downloads&color=ff9d00)` where `ENCODED_HF_API_URL` is `https://huggingface.co/api/datasets/OWNER/NAME?expand=downloadsAllTime` percent-encoded. Use `expand=downloadsAllTime` (the plain `downloads` field is only the last 30 days; `downloadsAllTime` requires the `expand`). Note: use `expand=...`, **not** `expand[]=...` — shields rejects the bracketed form with `invalid query parameter: url`.
 4. Add a matching News line at the top of the `# 🔥 News` list:
-   `- *YYYY.MM*: &nbsp;🎉 Our work on *topic* was accepted to **VENUE**.`
+   `- *YYYY.MM*: &nbsp;🎉 [PaperName](paper-url), <short phrase>, was accepted to **VENUE**.`
+   - **Bold marks only the achievement** (venue, award, download count). Paper names are plain links — never bold.
+   - The `<short phrase>` (~8–12 words) must come from the paper's **abstract**; no invented claims, no numbers except milestone counts.
+   - Papers without a short name: `[Our paper](url) on <topic>`.
+   - Items from before the PhD start (2025.09) live inside the `<details>` "Show older news" fold; keep roughly the latest 8 items visible and move older ones into the fold.
 5. If it's an award or new section, also update `# 🎖 Honors and Awards` / `_data/navigation.yml`.
 
 ## Conventions
