@@ -27,7 +27,7 @@ The whole site is effectively a **single page** — almost all content lives in 
 
 - First-year PhD student, Dept. of Computer Science, **UCL**. Co-supervised by Prof. Federica Sarro and Dr. He Ye.
 - MSc from **HUST** (advisor Prof. Yao Wan); collaborations with Prof. Lingming Zhang (UIUC) and Prof. Hongyu Zhang (Chongqing Univ.).
-- Research: intersection of SE and AI — **reliable and safe coding agents** for real-world SE workflows.
+- Research: intersection of SE and AI — **coding agents**: how to build, evaluate, and make them reliable on real-world tasks (same wording as the CV).
 - Primary email: **zhaoyang.chu.25@ucl.ac.uk** (also zychu418@gmail.com). This is the email in `_config.yml` and about.md — keep them in sync.
 
 ## Most frequent task: adding a publication
