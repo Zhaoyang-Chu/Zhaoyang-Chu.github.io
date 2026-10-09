@@ -21,11 +21,11 @@ The whole site is effectively a **single page** — almost all content lives in 
 | `images/` | Per-paper thumbnails + `profile.jpg` avatar. | When adding a paper |
 | `assets/` | `ZhaoyangChu_CV.pdf`, paper PDFs, css/js/fonts. | When updating CV |
 | `_includes/`, `_layouts/`, `_sass/` | Template HTML + styles. Rarely touched. | Almost never |
-| `google_scholar_crawler/` + `.github/workflows/google_scholar_crawler.yaml` | Auto-updates citation counts. | Fully automated — don't touch |
+| `google_scholar_crawler/` + `.github/workflows/google_scholar_crawler.yaml` | Auto-updates citation counts. | Automated, but can silently stall — see *Citation crawler* below |
 
 ## Identity (keep consistent everywhere)
 
-- First-year PhD student, Dept. of Computer Science, **UCL**. Co-supervised by Prof. Federica Sarro and Dr. He Ye.
+- Second-year PhD student (started Sep 2025 — bump the year in about.md and README.md each September), Dept. of Computer Science, **UCL**. Co-supervised by Dr. He Ye and Prof. Federica Sarro (always in this order).
 - MSc from **HUST** (advisor Prof. Yao Wan); collaborations with Prof. Lingming Zhang (UIUC) and Prof. Hongyu Zhang (Chongqing Univ.).
 - Research: intersection of SE and AI — **coding agents**: how to build, evaluate, and make them reliable on real-world tasks (same wording as the CV).
 - Primary email: **zhaoyang.chu.25@ucl.ac.uk** (also zychu418@gmail.com). This is the email in `_config.yml` and about.md — keep them in sync.
@@ -35,6 +35,7 @@ The whole site is effectively a **single page** — almost all content lives in 
 1. Drop the thumbnail into `images/` (jpg/png; rendered at `width="100%"` inside the box).
 2. In `_pages/about.md`, copy an existing `<div class='paper-box'>` block into the Publications section.
    Publications are ordered **Preprints first, then by venue/recency** (newest/most prestigious near the top).
+   **Exception:** the representative work (currently TerminalWorld) stays pinned at the very top even after it is accepted.
 3. The block template:
 
 ```html
@@ -67,7 +68,17 @@ Author A, [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Author C†.<br>
 - **Only papers with a public arXiv/official version go on the homepage**; unpublished submissions stay off. Never write "Under Review" here — a public-but-unaccepted paper is badged `Preprint`.
 - New papers without a figure yet use `images/placeholder.svg` with a `<!-- TODO -->` comment; replace before merging.
 - Commented-out `<!-- ... -->` paper-box / news blocks are intentionally parked (old preprints, hidden papers) — leave them unless asked.
-- Don't hand-edit citation counts; the GitHub Action regenerates them on the `google-scholar-stats` branch weekly (Mon 08:00 UTC), on any Pages build, or via manual `workflow_dispatch`. Note: `scholarly` scrapes from a shared GitHub Actions IP that Google Scholar rate-limits, so individual runs fail intermittently — a missed week is normal and self-heals on the next successful run; the failed run won't overwrite good data (the step exits before pushing).
+- Don't hand-edit citation counts; the GitHub Action regenerates them on the `google-scholar-stats` branch weekly (Mon 08:00 UTC), on any Pages build, or via manual `workflow_dispatch`. A failed run never overwrites good data (the step exits before pushing).
+
+## Citation crawler (lessons from the 2026-07 → 2026-10 stall)
+
+Three independent ways it stalls — check all three if counts look stale (`git log -1 origin/google-scholar-stats`):
+1. **Dependency drift.** `scholarly==1.5.1` imports `bibtexparser.bibdatabase`, removed in bibtexparser 2.0 (2026-09); `requirements.txt` pins `bibtexparser<2`. A `ModuleNotFoundError` in the run log means another unpinned dependency moved.
+2. **Google Scholar blocks GitHub Actions IPs — intermittently.** A blocked run hangs until the 10-min timeout cancels it; the next run may succeed. Long streaks of cancelled runs are possible (9 in a row in 2026-07/09).
+3. **GitHub auto-disables the scheduled workflow after 60 days without commits** (`gh workflow list --all` shows `disabled_inactivity`). Re-enable with `gh workflow enable google_scholar_crawler.yaml`, then `gh workflow run google_scholar_crawler.yaml`.
+
+After fresh data lands, per-paper badges read it through jsDelivr, which caches the branch — purge with
+`curl https://purge.jsdelivr.net/gh/Zhaoyang-Chu/Zhaoyang-Chu.github.io@google-scholar-stats/gs_data.json`.
 
 ## Running locally
 
