@@ -51,6 +51,10 @@ For more details about my academic background, please see my [**CV**](../assets/
 - *2026.04*: &nbsp;🎉 Two papers were accepted to **ACL 2026**: **[ExecVerify](https://arxiv.org/abs/2603.11226)** (reinforcement learning with verifiable stepwise rewards for code execution reasoning) and **[CGBridge](https://aclanthology.org/2026.findings-acl.434/)** (a plug-and-play bridge that brings code-graph structure into LLMs; Findings).
 - *2026.03*: &nbsp;🎉 [Our paper](https://dl.acm.org/doi/10.1145/3808139) on unveiling, detecting, and mitigating hallucinations in LLM-based code summarization was accepted to **FSE 2026**.
 - *2025.09*: &nbsp;🎓 Started my PhD at **UCL**, co-supervised by [Dr. He Ye](https://heye.me/) and [Prof. Federica Sarro](http://www0.cs.ucl.ac.uk/staff/F.Sarro/).
+
+<details markdown="1">
+<summary style="cursor:pointer; color:#888; font-size:0.9em;">Show older news</summary>
+
 - *2025.08*: &nbsp;🎉 **[NoWait](https://arxiv.org/abs/2506.08343)**, which suppresses "Wait"-style self-reflection tokens to shorten R1-style reasoning by up to 27%–51% without hurting utility, was accepted to **EMNLP 2025** Findings.
 - *2025.07*: &nbsp;🎉 **[CODERPE](https://arxiv.org/abs/2412.01333)**, which uses role-player prompting to let LLMs evaluate code summaries, was accepted by **IEEE Transactions on Software Engineering (TSE)**.
 - *2025.06*: &nbsp;🎉 **[CodeEraser](https://arxiv.org/abs/2509.13755)**, which erases sensitive memorization from code language models via machine unlearning, was accepted to **ICSE 2026**.
@@ -59,6 +63,8 @@ For more details about my academic background, please see my [**CV**](../assets/
 - *2025.01*: &nbsp;🎉 **[TESTEVAL](https://arxiv.org/abs/2406.04531)**, a benchmark for test case generation with LLMs, was accepted to **NAACL 2025** Findings.
 - *2024.12*: &nbsp;🎉 [Our study](https://arxiv.org/abs/2501.03783) on learning-based selection of pre-trained code models for reuse was accepted to **SANER 2025**.
 - *2024.03*: &nbsp;🎉 **[CFExplainer](https://arxiv.org/abs/2404.15687)**, a counterfactual explainer for GNN-based vulnerability detection, was accepted to **ISSTA 2024**.
+
+</details>
 
 <!--
 - *2022.09*: &nbsp;🎉 One paper was published in **Information Sciences**.
