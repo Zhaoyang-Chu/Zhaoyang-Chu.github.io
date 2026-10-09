@@ -27,7 +27,7 @@ The whole site is effectively a **single page** — almost all content lives in 
 
 - First-year PhD student, Dept. of Computer Science, **UCL**. Co-supervised by Prof. Federica Sarro and Dr. He Ye.
 - MSc from **HUST** (advisor Prof. Yao Wan); collaborations with Prof. Lingming Zhang (UIUC) and Prof. Hongyu Zhang (Chongqing Univ.).
-- Research: intersection of SE and AI — **reliable and safe coding agents** for real-world SE workflows.
+- Research: intersection of SE and AI — **coding agents**: how to build, evaluate, and make them reliable on real-world tasks (same wording as the CV).
 - Primary email: **zhaoyang.chu.25@ucl.ac.uk** (also zychu418@gmail.com). This is the email in `_config.yml` and about.md — keep them in sync.
 
 ## Most frequent task: adding a publication
@@ -64,6 +64,8 @@ Author A, [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Author C†.<br>
 ## Conventions
 
 - **Dates** use `*YYYY.MM*` format in News and Educations.
+- **Only papers with a public arXiv/official version go on the homepage**; unpublished submissions stay off. Never write "Under Review" here — a public-but-unaccepted paper is badged `Preprint`.
+- New papers without a figure yet use `images/placeholder.svg` with a `<!-- TODO -->` comment; replace before merging.
 - Commented-out `<!-- ... -->` paper-box / news blocks are intentionally parked (old preprints, hidden papers) — leave them unless asked.
 - Don't hand-edit citation counts; the GitHub Action regenerates them on the `google-scholar-stats` branch weekly (Mon 08:00 UTC), on any Pages build, or via manual `workflow_dispatch`. Note: `scholarly` scrapes from a shared GitHub Actions IP that Google Scholar rate-limits, so individual runs fail intermittently — a missed week is normal and self-heals on the next successful run; the failed run won't overwrite good data (the step exits before pushing).
 

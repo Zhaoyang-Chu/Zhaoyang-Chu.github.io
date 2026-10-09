@@ -17,12 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-_**How to say my name?**<br>
-You can just say it as “Jao-young Choo”.<br>
-😊 No stress about precision — I’m happy with any close version._
-
----
-
 I am a first-year PhD student in the Department of Computer Science at [**University College London (UCL)**](https://www.ucl.ac.uk/), where I am fortunate to be co-supervised by [**Prof. Federica Sarro**](http://www0.cs.ucl.ac.uk/staff/F.Sarro/) and [**Dr. He Ye**](https://heye.me/).
 Previously, I completed my master's degree at the School of Computer Science and Technology, [**Huazhong University of Science and Technology (HUST)**](https://www.hust.edu.cn), advised by [**Prof. Yao Wan**](http://wanyao.me).
 My academic journey has also been enriched by collaborations with [**Prof. Lingming Zhang**](https://lingming.cs.illinois.edu/) at UIUC and [**Prof. Hongyu Zhang**](https://sites.google.com/site/hongyujohn/) at Chongqing University.
@@ -31,7 +25,7 @@ My academic journey has also been enriched by collaborations with [**Prof. Lingm
 I am also a co-founder of [**EuniAI**](https://euni.ai/), where we are building [**Prometheus**](https://github.com/EuniAI/Prometheus) — an open-source AI agent designed to push the boundaries of automated software development.
 -->
 
-> My research interests lie at the intersection of software engineering and artificial intelligence, with an emphasis on **safe and reliable coding agents** for real-world software engineering workflows.
+> My research interests lie at the intersection of software engineering and artificial intelligence, with an emphasis on **coding agents**: how to build, evaluate, and make them reliable on real-world tasks.
 I have published 10+ papers <a href="https://scholar.google.com/citations?user=HYu3DyEAAAAJ"><img src="https://img.shields.io/endpoint?url={{ url }}&logo=googlescholar&logoColor=white&style=for-the-badge&color=4285F4" alt="Citations" style="vertical-align:middle;height:24px!important;width:auto"></a> at top-tier international SE and AI conferences such as ICSE, FSE, ISSTA, ACL, EMNLP, ICML, and NAACL.
 For more details about my academic background, please see my [**CV**](../assets/ZhaoyangChu_CV.pdf).
 
@@ -78,13 +72,25 @@ Wenhan Wang, Chenyuan Yang, Zhijie Wang, Yuheng Huang, [**Zhaoyang Chu**](https:
 
 \* indicates equal contribution. † indicates the corresponding author.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/TerminalWorld.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/TerminalWorld.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks**.<br>
 [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Jiarui Hu\*, Xingyu Jiang\*, Pengyu Zou\*, Han Li, Chao Peng, Peter O'Hearn, Earl T. Barr, Mark Harman, Federica Sarro, He Ye†.<br>
-Preprint.<br>
+[**NeurIPS 2026**](https://neurips.cc/Conferences/2026). *The 40th Annual Conference on Neural Information Processing Systems*.<br>
 <a href="https://arxiv.org/abs/2605.22535"><img src="https://img.shields.io/badge/arXiv-2605.22535-A42C25?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv" style="vertical-align:middle;height:24px!important;width:auto"></a> <a href="https://github.com/EuniAI/TerminalWorld"><img src="https://img.shields.io/github/stars/EuniAI/TerminalWorld?style=for-the-badge&logo=github&label=GitHub&color=black" alt="GitHub" style="vertical-align:middle;height:24px!important;width:auto"></a> <a href="https://huggingface.co/datasets/EuniAI/TerminalWorld"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=huggingface&logoColor=FFD21E&url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FEuniAI%2FTerminalWorld%3Fexpand%3DdownloadsAllTime&query=%24.downloadsAllTime&label=HuggingFace&color=FFD21E" alt="HuggingFace" style="vertical-align:middle;height:24px!important;width:auto"></a> <a href="https://terminalworld.ai/"><img src="https://img.shields.io/website?url=https://terminalworld.ai/&up_message=terminalworld.ai&up_color=blue&down_message=terminalworld.ai&down_color=blue&style=for-the-badge" alt="Website" style="vertical-align:middle;height:24px!important;width:auto"></a> <a href="https://scholar.google.com/citations?user=HYu3DyEAAAAJ"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=googlescholar&logoColor=white&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhaoyang-Chu%2FZhaoyang-Chu.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27HYu3DyEAAAAJ%3AufrVoPGSRksC%27%5D.num_citations&label=Citations&color=4285F4" alt="Citations" style="vertical-align:middle;height:24px!important;width:auto"></a>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><!-- TODO: replace placeholder with the paper figure --><img src='images/placeholder.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**OpenRUA: Robot-Use Agents Are Zero-Shot Visuomotor Policies**.<br>
+[**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Earl T. Barr, Claire Le Goues, Peter O'Hearn, Mark Harman, Federica Sarro, He Ye†.<br>
+Preprint.<br>
+<a href="https://arxiv.org/abs/2610.02459"><img src="https://img.shields.io/badge/arXiv-2610.02459-A42C25?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv" style="vertical-align:middle;height:24px!important;width:auto"></a> <a href="https://github.com/terminalworld/OpenRUA"><img src="https://img.shields.io/github/stars/terminalworld/OpenRUA?style=for-the-badge&logo=github&label=GitHub&color=black" alt="GitHub" style="vertical-align:middle;height:24px!important;width:auto"></a>
 
 </div>
 </div>
@@ -113,6 +119,18 @@ Preprint.<br>
 </div>
 </div>
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><!-- TODO: replace placeholder with the paper figure --><img src='images/placeholder.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**An Iterative Test-and-Repair Framework for Competitive Code Generation**.<br>
+Lingxiao Tang, Muyang Ye, [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Xiaoxue Ren, Zhongxin Liu, Lingfeng Bao†, He Ye.<br>
+Preprint.<br>
+<a href="https://arxiv.org/abs/2604.05560"><img src="https://img.shields.io/badge/arXiv-2604.05560-A42C25?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv" style="vertical-align:middle;height:24px!important;width:auto"></a> <a href="https://scholar.google.com/citations?user=HYu3DyEAAAAJ"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=googlescholar&logoColor=white&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhaoyang-Chu%2FZhaoyang-Chu.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27HYu3DyEAAAAJ%3AeQOLeE2rZwMC%27%5D.num_citations&label=Citations&color=4285F4" alt="Citations" style="vertical-align:middle;height:24px!important;width:auto"></a>
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2026</div><img src='images/CodeEraser_Illustration.jpg' alt="sym" width="100%"></div></div>
@@ -155,7 +173,7 @@ Lingxiao Tang, He Ye, [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Muyan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/CGBridge.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Bridging Code Graphs and Large Language Models for Better Code Understanding**.<br>
+**CGBridge: Bridging Code Graphs and Large Language Models for Better Structure-Aware Code Understanding**.<br>
 Zeqi Chen, [**Zhaoyang Chu**](https://zhaoyang-chu.github.io/), Yi Gui, Feng Guo, Yao Wan, Chuan Shi†.<br>
 [**ACL 2026 Findings**](https://2026.aclweb.org/). *The 64th Annual Meeting of the Association for Computational Linguistics*.<br>
 <a href="https://arxiv.org/abs/2512.07666"><img src="https://img.shields.io/badge/arXiv-2512.07666-A42C25?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv" style="vertical-align:middle;height:24px!important;width:auto"></a> <a href="https://github.com/OmniJax/CGBridge"><img src="https://img.shields.io/github/stars/OmniJax/CGBridge?style=for-the-badge&logo=github&label=GitHub&color=black" alt="GitHub" style="vertical-align:middle;height:24px!important;width:auto"></a> <a href="https://scholar.google.com/citations?user=HYu3DyEAAAAJ"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=googlescholar&logoColor=white&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhaoyang-Chu%2FZhaoyang-Chu.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27HYu3DyEAAAAJ%3ATyk-4Ss8FVUC%27%5D.num_citations&label=Citations&color=4285F4" alt="Citations" style="vertical-align:middle;height:24px!important;width:auto"></a>
